@@ -1,0 +1,18 @@
+commit b1fe1d55df33f439ed9c4d8c96f4bb2f970b8ff4
+tree e67544857c45e9d83842eab623a3b954da5ef379
+parent f0c5c37de46683575fcb44e0d7ba3bc35e50a41a
+author ARPITPRAJAPATI <93511649+ARPITPRAJAPATI@users.noreply.github.com> 2026-03-02 15:16:28 +0530
+committer GitHub <noreply@github.com> 2026-03-02 15:16:28 +0530
+
+    Add docker_build function for building Docker images
+
+:000000 100644 0000000000000000000000000000000000000000 ad7b9d0a2cda12137c670099dd8c39c65bb83a2c A	vars/docker_build.groovy
+commit f0c5c37de46683575fcb44e0d7ba3bc35e50a41a
+tree 2321c17197cdaadaf322411b7cdca892571ab207
+parent 25e8826fb46a4fb14284d7a64d5deb71b4d0e723
+author ARPITPRAJAPATI <93511649+ARPITPRAJAPATI@users.noreply.github.com> 2026-03-02 15:11:50 +0530
+committer GitHub <noreply@github.com> 2026-03-02 15:11:50 +0530
+
+    Create clone.groovy
+
+:000000 100644 0000000000000000000000000000000000000000 7ec4297e6e2320ff1cb4f67d27919529dd4cbbcc A	vars/clone.groovy

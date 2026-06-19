@@ -1,0 +1,9 @@
+commit 63bc22e70f1f5deb056fc1fcca8718421c01eaa3
+tree 42eecd4be54f72d6932f8a6ad799d14d2be66abd
+parent 93aae3bd6c35f947f52b88e4cf053d2f1fd89185
+author ARPITPRAJAPATI <93511649+ARPITPRAJAPATI@users.noreply.github.com> 2026-03-02 14:11:29 +0530
+committer GitHub <noreply@github.com> 2026-03-02 14:11:29 +0530
+
+    Update Docker image for web service
+
+:100644 100644 1ee0ee399e9eb8aa679ae830921f4dbe657820a5 bbbae5e36a3b8bed3fd8803aa35853648718a84e M	docker-compose.yml

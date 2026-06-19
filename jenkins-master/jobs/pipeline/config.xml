@@ -1,0 +1,42 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1571.vb_423c255d6d9">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2277.v00573e73ddf1"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2277.v00573e73ddf1">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@4257.vb_2e202808577">
+    <script>pipeline {
+    agent {label &quot;aru&quot;}
+
+    stages {
+        stage(&apos;Hello&apos;) {
+            steps {
+                echo &apos;Hello dosto&apos;
+            }
+        }
+        stage(&apos;create folder&apos;){
+            steps{
+                sh &quot;mkdir -p devopss&quot;
+            }
+        }
+        stage(&apos;bye&apos;){
+            steps{
+                echo &apos;acha lawde&apos;
+            }
+        }
+    }
+}
+</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

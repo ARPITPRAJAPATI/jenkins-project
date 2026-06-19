@@ -1,0 +1,490 @@
+Started by user [8mha:////4JJU30kivkk7i2+MYZ+sEcoG+nTV673L7S1xHn1Da1BGAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZe/dLi1CL9xKLSjNSMVABrO4oSwgAAAA==[0mArpit kumar prajapati
+[8mha:////4LE0mNe4aDlveL5+olh3HcPeY1IxVENHeRzvduBunvI7AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4HwH2kDwtwV56jGlOSBaoltMtBZe+Fpaj7DDMgP9WO3GAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4CbrNIBxL/tA7iMKsqe6y4WWZBw8/Yn7TRleqb8lCodbAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYx/eT83ILSktQifcf01LwSVSOXxKJSfQD61y5cywAAAA==[0mAgent-aru in /home/ubuntu/workspace/DjangoCICD
+[8mha:////4L7SOEp+w4PBVbGDxG4NEBRaNx/5/JkTluNOBdn9Oq3xAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4FKa2f4Yuna9rC5o/OqcMhiRxX94AiDPWW4fpcSc/ybSAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4JH4EFOwrOcgRTwMje1ATYv3SbJRvkTtQYUoL/jijwowAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Code)
+[8mha:////4Fz0hMYiEptC/pqrtwC5BMC4+k8uHCeUCA/qkuzZhLWMAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] echo
+This is cloning the code
+[8mha:////4K865gFWDZx563IgRbSP8AALiy7pnZl1/Y5pmMB7DNEiAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED8v8DEJvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/LondheShubham153/django-notes-app.git
+ > git init /home/ubuntu/workspace/DjangoCICD # timeout=10
+Fetching upstream changes from https://github.com/LondheShubham153/django-notes-app.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/LondheShubham153/django-notes-app.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+Checking out Revision 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 (refs/remotes/origin/dev)
+Commit message: "Update docker-compose.yml"
+ > git config remote.origin.url https://github.com/LondheShubham153/django-notes-app.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/dev^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b dev 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 # timeout=10
+ > git rev-list --no-walk 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 # timeout=10
+[8mha:////4CpBa96FjI9AiO0oSrstRWtvwT0HryJqXWsS02sXdubYAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED9uwSoQvAAAAA==[0m[Pipeline] echo
+Code clone success
+[8mha:////4OvELxGBl7ecPuUSEcVKRlI+h8AwGoKkywu5k2xfH3LVAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJoY+NY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfId1tBtv8AqUpLPL0AAAA=[0m[Pipeline] }
+[8mha:////4AGFbEuo3LuZWkUIdHJCtuYxMghSKTnR1Lx95FyNNHpXAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMhZVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8AozIimL0AAAA=[0m[Pipeline] // stage
+[8mha:////4PYlAJpZ8lBgYPcC1Uuuz9WPybJ4VSkUtYwTw3XrDFZmAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2Gw/x/INvUXiHMEAAAA=[0m[Pipeline] stage
+[8mha:////4Hc0OBKf+6IEkJxNHkaYqhM+JbT3M29pIdLir+0oGjqBAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Build)
+[8mha:////4MyMxG0lnqkrfvjnAz1NiIMjYuTBWVnRLFObWrcsm4AmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] echo
+Building Docker image
+[8mha:////4GO1Qj7R3gjqTDgB2nf+En2tVFnw5Zh2Zg/QVuIr9xjMAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN0uFte2+AAAA[0m[Pipeline] sh
++ docker build -t notes-app:latest .
+DEPRECATED: The legacy builder is deprecated and will be removed in a future release.
+            Install the buildx component to build images with BuildKit:
+            https://docs.docker.com/go/buildx/
+
+Sending build context to Docker daemon    8.4MB
+Step 1/7 : FROM python:3.9
+ ---> bcd3da597491
+Step 2/7 : WORKDIR /app/backend
+ ---> Using cache
+ ---> 7d7599fddaf6
+Step 3/7 : COPY requirements.txt /app/backend
+ ---> Using cache
+ ---> dcf79dac8e2e
+Step 4/7 : RUN pip install -r requirements.txt
+ ---> Running in 983277d25d40
+Collecting asgiref==3.6.0
+  Downloading asgiref-3.6.0-py3-none-any.whl (23 kB)
+Collecting Django==4.1.5
+  Downloading Django-4.1.5-py3-none-any.whl (8.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.1/8.1 MB 98.1 MB/s eta 0:00:00
+Collecting django-cors-headers==3.13.0
+  Downloading django_cors_headers-3.13.0-py3-none-any.whl (13 kB)
+Collecting djangorestframework==3.14.0
+  Downloading djangorestframework-3.14.0-py3-none-any.whl (1.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 64.0 MB/s eta 0:00:00
+Collecting gunicorn==20.1.0
+  Downloading gunicorn-20.1.0-py3-none-any.whl (79 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 79.5/79.5 kB 11.6 MB/s eta 0:00:00
+Collecting pytz==2022.7.1
+  Downloading pytz-2022.7.1-py2.py3-none-any.whl (499 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 499.4/499.4 kB 47.7 MB/s eta 0:00:00
+Collecting sqlparse==0.4.3
+  Downloading sqlparse-0.4.3-py3-none-any.whl (42 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.8/42.8 kB 5.8 MB/s eta 0:00:00
+Collecting tzdata==2022.7
+  Downloading tzdata-2022.7-py2.py3-none-any.whl (340 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 340.1/340.1 kB 34.3 MB/s eta 0:00:00
+Collecting whitenoise==6.3.0
+  Downloading whitenoise-6.3.0-py3-none-any.whl (19 kB)
+Requirement already satisfied: setuptools>=3.0 in /usr/local/lib/python3.9/site-packages (from gunicorn==20.1.0->-r requirements.txt (line 5)) (79.0.1)
+Installing collected packages: pytz, whitenoise, tzdata, sqlparse, gunicorn, asgiref, Django, djangorestframework, django-cors-headers
+Successfully installed Django-4.1.5 asgiref-3.6.0 django-cors-headers-3.13.0 djangorestframework-3.14.0 gunicorn-20.1.0 pytz-2022.7.1 sqlparse-0.4.3 tzdata-2022.7 whitenoise-6.3.0
+[91mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[0m[91m
+[notice] A new release of pip is available: 23.0.1 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+[0m ---> Removed intermediate container 983277d25d40
+ ---> 2f35883c210a
+Step 5/7 : COPY . /app/backend
+ ---> 44cfa804a86d
+Step 6/7 : EXPOSE 8000
+ ---> Running in 42de5c25f4c2
+ ---> Removed intermediate container 42de5c25f4c2
+ ---> d9cca2089dd5
+Step 7/7 : CMD python /app/backend/manage.py runserver 0.0.0.0:8000
+ ---> Running in 9ae4f2f8f136
+ ---> Removed intermediate container 9ae4f2f8f136
+ ---> 6d10a58d70fd
+Successfully built 6d10a58d70fd
+Successfully tagged notes-app:latest
+[8mha:////4K3xq/HVRukq10d43eA2bbXPb0qKIzge23D9DH1bBDu9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEeFbpZvgAAAA==[0m[Pipeline] }
+[8mha:////4AXriVtFPJfktYIKAUltXWanqmIPxsFXFhfLc4yKYJooAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7Ny324eW+AAAA[0m[Pipeline] // stage
+[8mha:////4Is7cLAvXugK8Tfbsu2rbl8T4+qkd/5xz1+2aPORjJWuAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJAokREVrueEFJjbGiXUX7AtJxYv4Gn8gEImKrXZWWs3zBWVOcKDkZeOwDZjrILvY+6nJgVJ7iTTIhs6yJswUndRu0GTdcUZN7GCOKGChYOmwjpQDeoaVaszdVNGgr06cpm2voAj2Bg8QajKzSfyFMcH62ttM+PP8FcDYMYgtQ7HZfY7lG9tmeb3BAAAA[0m[Pipeline] stage
+[8mha:////4MCTcibe2b1k1/b8/iqQ0HaIJizLLypYe2wrrhgC9uBxAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUbCDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASnCIIrCAAAA[0m[Pipeline] { (Dockerhub)
+[8mha:////4OZN4F+1x8HLe501q1jytFCJlTtT90hY72c4pUWfGnj0AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICdAilorXc8AKTGOPEugu2g1PxIr7GH7CIRMUWq51t5vWGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYI5e6Qa78dPhmQ9Da+AAAA[0m[Pipeline] echo
+Pushing image to DockerHub
+[8mha:////4NoER6mBmL28zcVYP0ccaYLqWaKVr6IPuJ/mIwKMrtSHAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUOIqWvUhROEJoSk0f8lSUknTsTVuAOBSkx4sGxL1nu+oAoejuQ1swoHg6E3bHSTzokl8sPFUWKWzqwnDOQU61TqSKp2qR1FBYuKElYc1gp7R8GgjrDhVtxF7QTq+hR93g4cSiNv8ICCZ3IUPn7L7GF7nWQg/HH+AmAeI5TNPtuu+TyrNxmFFZbCAAAA[0m[Pipeline] withCredentials
+Masking supported pattern matches of $dockerHubPass
+[8mha:////4NMvSQeHTaoIZkyoZ+ZLTvoqy06IY5GktfBaRm7Wmd5BAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] {
+[8mha:////4BcwWZ4xwbMApLimvj23yienWrFkl+GlKJ107Ls1f51zAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs3w5BRkb4AAAA=[0m[Pipeline] sh
+Warning: A secret was passed to "sh" using Groovy String interpolation, which is insecure.
+		 Affected argument(s) used the following variable(s): [dockerHubPass]
+		 See https://jenkins.io/redirect/groovy-string-interpolation for details.
++ docker login -u aruhehe -p ****
+WARNING! Using --password via the CLI is insecure. Use --password-stdin.
+Login Succeeded
+[8mha:////4CitrIxEEYyxNlTw+n9kiqjHhoHAC9TRm5jZuRC5DowPAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNG7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPYJ6rb91N6/AQQGEN6+AAAA[0m[Pipeline] sh
++ docker tag notes-app:latest aruhehe/notes-app:latest
+[8mha:////4Isy5WL44o9/L9A5XxGhF8YETvVqJlzMDAhZfmivxHECAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNHEyTq6ExS/AFhFK3qNApZNf5K/5D6JNnLzDzT13Oc8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALNPULftp/b+DUU3C8e+AAAA[0m[Pipeline] sh
++ docker push aruhehe/notes-app:latest
+The push refers to repository [docker.io/aruhehe/notes-app]
+591eb893ba19: Preparing
+662fb1fec3a6: Preparing
+072d696a8e8e: Preparing
+040def6ff0c4: Preparing
+4e92062d58c4: Preparing
+05c88577d350: Preparing
+0b38a99061e1: Preparing
+713ad1f34d94: Preparing
+c041ff8d6c73: Preparing
+fbde375eafc7: Preparing
+f2522c6ed78b: Preparing
+713ad1f34d94: Waiting
+c041ff8d6c73: Waiting
+fbde375eafc7: Waiting
+f2522c6ed78b: Waiting
+05c88577d350: Waiting
+0b38a99061e1: Waiting
+4e92062d58c4: Layer already exists
+072d696a8e8e: Layer already exists
+040def6ff0c4: Layer already exists
+05c88577d350: Layer already exists
+0b38a99061e1: Layer already exists
+713ad1f34d94: Layer already exists
+c041ff8d6c73: Layer already exists
+f2522c6ed78b: Layer already exists
+fbde375eafc7: Layer already exists
+591eb893ba19: Pushed
+662fb1fec3a6: Pushed
+latest: digest: sha256:eb7302e39d6e4ebf3c5a359ade9d18afbcf297f7fc96a247dda56269ec3c1631 size: 2633
+[8mha:////4BdcL7Imqh3S6izpRvBr5RNhn/E2ZaZw8ZeDUltTohrFAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8LGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DdZseDS+AAAA[0m[Pipeline] }
+[8mha:////4EhzmVIkQAOTUc8IK6x8ingznP6+Vk0IM2NdJYkJ8ksXAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN8nuLWa+AAAA[0m[Pipeline] // withCredentials
+[8mha:////4BYiPRkAA1Gu+WezaY7qC8M9XzIKeLJX4ZnJTauhdIDTAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqEAoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrdPtf28AHth42yvgAAAA==[0m[Pipeline] }
+[8mha:////4NAuj2QquAe/eN00+4C/NYTBxSJxCrS2IBaBRyS4hhFzAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqEAoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrdIdd2/wHeZNYOvgAAAA==[0m[Pipeline] // stage
+[8mha:////4J4SVAzeRakQjVG3tQSJ2XTVUD/Q6RG3nE/d3bS44lXoAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDBB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INn/W1xsEAAAA=[0m[Pipeline] stage
+[8mha:////4Jq7itp3UsE8xYaYEdKi3P4vCPm8XXEy8uNkV6++B4liAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Deploy)
+[8mha:////4AqR0wRBd50slil67v/+p+VkKwjJuvCL8A/FG9H5Uo7rAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfettHKdL4AAAA=[0m[Pipeline] echo
+Deploying container
+[8mha:////4LLq8mkQsKXPkksMhdO3QRxJWSn22TzRXK3wBYJx6xPYAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIilBJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3f9+DRbb4AAAA=[0m[Pipeline] sh
++ docker compose up -d
+time="2026-02-28T21:18:25Z" level=warning msg="/home/ubuntu/workspace/DjangoCICD/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ web Pulling 
+ d52e4f012db1 Pulling fs layer 
+ 7dd206bea61f Pulling fs layer 
+ 2320f9be4a9c Pulling fs layer 
+ 6e5565e0ba8d Pulling fs layer 
+ d3797e13cc41 Pulling fs layer 
+ 9421d62bef94 Pulling fs layer 
+ 19d7d75bfdca Pulling fs layer 
+ 67f28346abde Pulling fs layer 
+ 0cf53032c230 Pulling fs layer 
+ 7fd1e151fa8d Pulling fs layer 
+ 4e6d698d2e77 Pulling fs layer 
+ 49d939fa78c9 Pulling fs layer 
+ 6e5565e0ba8d Waiting 
+ d3797e13cc41 Waiting 
+ 9421d62bef94 Waiting 
+ 19d7d75bfdca Waiting 
+ 67f28346abde Waiting 
+ 0cf53032c230 Waiting 
+ 7fd1e151fa8d Waiting 
+ 4e6d698d2e77 Waiting 
+ 49d939fa78c9 Waiting 
+ d52e4f012db1 Downloading [>                                                  ]    501kB/49.55MB
+ 2320f9be4a9c Downloading [>                                                  ]  533.5kB/64.11MB
+ d52e4f012db1 Downloading [=================>                                 ]   17.7MB/49.55MB
+ 2320f9be4a9c Downloading [=============>                                     ]  17.67MB/64.11MB
+ d52e4f012db1 Downloading [===================================>               ]  34.89MB/49.55MB
+ 2320f9be4a9c Downloading [===========================>                       ]   34.8MB/64.11MB
+ 7dd206bea61f Downloading [>                                                  ]  245.8kB/24.03MB
+ d52e4f012db1 Verifying Checksum 
+ d52e4f012db1 Download complete 
+ 2320f9be4a9c Downloading [========================================>          ]  51.39MB/64.11MB
+ d52e4f012db1 Extracting [>                                                  ]  524.3kB/49.55MB
+ 2320f9be4a9c Verifying Checksum 
+ 2320f9be4a9c Download complete 
+ 7dd206bea61f Downloading [===>                                               ]  1.715MB/24.03MB
+ d52e4f012db1 Extracting [===>                                               ]   3.67MB/49.55MB
+ 7dd206bea61f Downloading [====================>                              ]  10.09MB/24.03MB
+ d52e4f012db1 Extracting [======>                                            ]  6.816MB/49.55MB
+ 7dd206bea61f Downloading [=============================>                     ]  14.27MB/24.03MB
+ d52e4f012db1 Extracting [=========>                                         ]  9.437MB/49.55MB
+ 7dd206bea61f Downloading [======================================>            ]  18.69MB/24.03MB
+ 7dd206bea61f Verifying Checksum 
+ 7dd206bea61f Download complete 
+ d52e4f012db1 Extracting [==========>                                        ]  10.49MB/49.55MB
+ d52e4f012db1 Extracting [=============>                                     ]  13.11MB/49.55MB
+ d52e4f012db1 Extracting [================>                                  ]  16.78MB/49.55MB
+ d52e4f012db1 Extracting [=====================>                             ]  20.97MB/49.55MB
+ 6e5565e0ba8d Downloading [>                                                  ]  540.7kB/211MB
+ d52e4f012db1 Extracting [========================>                          ]  24.12MB/49.55MB
+ d3797e13cc41 Downloading [>                                                  ]  67.96kB/6.389MB
+ 6e5565e0ba8d Downloading [=>                                                 ]  5.931MB/211MB
+ d3797e13cc41 Downloading [=======================>                           ]  3.023MB/6.389MB
+ 9421d62bef94 Downloading [>                                                  ]  159.8kB/15.82MB
+ 6e5565e0ba8d Downloading [==>                                                ]  10.76MB/211MB
+ d52e4f012db1 Extracting [========================>                          ]  24.64MB/49.55MB
+ d3797e13cc41 Downloading [============================================>      ]  5.636MB/6.389MB
+ 9421d62bef94 Downloading [=============================>                     ]  9.336MB/15.82MB
+ d3797e13cc41 Downloading [==================================================>]  6.389MB/6.389MB
+ d3797e13cc41 Verifying Checksum 
+ d3797e13cc41 Download complete 
+ 6e5565e0ba8d Downloading [===>                                               ]  13.47MB/211MB
+ 9421d62bef94 Verifying Checksum 
+ 9421d62bef94 Download complete 
+ d52e4f012db1 Extracting [=========================>                         ]  25.17MB/49.55MB
+ 6e5565e0ba8d Downloading [====>                                              ]  19.96MB/211MB
+ 6e5565e0ba8d Downloading [=====>                                             ]  24.81MB/211MB
+ d52e4f012db1 Extracting [============================>                      ]  27.79MB/49.55MB
+ 6e5565e0ba8d Downloading [=======>                                           ]  29.66MB/211MB
+ d52e4f012db1 Extracting [================================>                  ]  31.98MB/49.55MB
+ 6e5565e0ba8d Downloading [========>                                          ]   34.5MB/211MB
+ d52e4f012db1 Extracting [==================================>                ]   34.6MB/49.55MB
+ 6e5565e0ba8d Downloading [=========>                                         ]  40.98MB/211MB
+ d52e4f012db1 Extracting [====================================>              ]  36.18MB/49.55MB
+ 6e5565e0ba8d Downloading [============>                                      ]   51.7MB/211MB
+ 6e5565e0ba8d Downloading [==============>                                    ]  62.95MB/211MB
+ d52e4f012db1 Extracting [======================================>            ]  37.75MB/49.55MB
+ 6e5565e0ba8d Downloading [=================>                                 ]  74.16MB/211MB
+ d52e4f012db1 Extracting [=======================================>           ]   38.8MB/49.55MB
+ 19d7d75bfdca Downloading [==================================================>]     243B/243B
+ 19d7d75bfdca Verifying Checksum 
+ 19d7d75bfdca Download complete 
+ 67f28346abde Downloading [>                                                  ]  28.73kB/2.846MB
+ 6e5565e0ba8d Downloading [====================>                              ]  84.88MB/211MB
+ 67f28346abde Verifying Checksum 
+ 67f28346abde Download complete 
+ d52e4f012db1 Extracting [========================================>          ]  40.37MB/49.55MB
+ 6e5565e0ba8d Downloading [======================>                            ]  96.11MB/211MB
+ 6e5565e0ba8d Downloading [=========================>                         ]  107.4MB/211MB
+ d52e4f012db1 Extracting [==========================================>        ]  42.47MB/49.55MB
+ 6e5565e0ba8d Downloading [============================>                      ]  118.7MB/211MB
+ d52e4f012db1 Extracting [============================================>      ]  44.04MB/49.55MB
+ 6e5565e0ba8d Downloading [==============================>                    ]  129.4MB/211MB
+ d52e4f012db1 Extracting [==============================================>    ]  45.61MB/49.55MB
+ 6e5565e0ba8d Downloading [=================================>                 ]  140.1MB/211MB
+ d52e4f012db1 Extracting [===============================================>   ]  46.66MB/49.55MB
+ 6e5565e0ba8d Downloading [===================================>               ]  150.3MB/211MB
+ 6e5565e0ba8d Downloading [=====================================>             ]  159.4MB/211MB
+ d52e4f012db1 Extracting [================================================>  ]  47.71MB/49.55MB
+ 6e5565e0ba8d Downloading [=======================================>           ]  167.5MB/211MB
+ 0cf53032c230 Downloading [==================================================>]     115B/115B
+ 0cf53032c230 Verifying Checksum 
+ 0cf53032c230 Download complete 
+ 6e5565e0ba8d Downloading [==========================================>        ]  178.7MB/211MB
+ 6e5565e0ba8d Downloading [=============================================>     ]  190.6MB/211MB
+ 6e5565e0ba8d Downloading [===============================================>   ]  200.2MB/211MB
+ d52e4f012db1 Extracting [=================================================> ]  48.76MB/49.55MB
+ 6e5565e0ba8d Downloading [=================================================> ]  210.9MB/211MB
+ 6e5565e0ba8d Verifying Checksum 
+ 6e5565e0ba8d Download complete 
+ d52e4f012db1 Extracting [==================================================>]  49.55MB/49.55MB
+ d52e4f012db1 Pull complete 
+ 7dd206bea61f Extracting [>                                                  ]  262.1kB/24.03MB
+ 7dd206bea61f Extracting [==========>                                        ]  4.981MB/24.03MB
+ 7dd206bea61f Extracting [=================>                                 ]  8.389MB/24.03MB
+ 7fd1e151fa8d Downloading [==================================================>]     283B/283B
+ 7fd1e151fa8d Verifying Checksum 
+ 7fd1e151fa8d Download complete 
+ 7dd206bea61f Extracting [==========================>                        ]  12.85MB/24.03MB
+ 4e6d698d2e77 Downloading [>                                                  ]  213.8kB/21.08MB
+ 7dd206bea61f Extracting [==============================>                    ]  14.68MB/24.03MB
+ 4e6d698d2e77 Downloading [=======================>                           ]  10.12MB/21.08MB
+ 7dd206bea61f Extracting [======================================>            ]  18.61MB/24.03MB
+ 4e6d698d2e77 Verifying Checksum 
+ 4e6d698d2e77 Download complete 
+ 7dd206bea61f Extracting [============================================>      ]   21.5MB/24.03MB
+ 49d939fa78c9 Downloading [>                                                  ]  39.61kB/3.827MB
+ 7dd206bea61f Extracting [================================================>  ]  23.33MB/24.03MB
+ 49d939fa78c9 Downloading [=====>                                             ]  393.2kB/3.827MB
+ 7dd206bea61f Extracting [==================================================>]  24.03MB/24.03MB
+ 49d939fa78c9 Downloading [=========>                                         ]  753.7kB/3.827MB
+ 7dd206bea61f Pull complete 
+ 2320f9be4a9c Extracting [>                                                  ]  557.1kB/64.11MB
+ 49d939fa78c9 Downloading [===============>                                   ]   1.18MB/3.827MB
+ 2320f9be4a9c Extracting [=====>                                             ]  6.685MB/64.11MB
+ 49d939fa78c9 Downloading [====================>                              ]  1.606MB/3.827MB
+ 2320f9be4a9c Extracting [========>                                          ]  10.58MB/64.11MB
+ 2320f9be4a9c Extracting [============>                                      ]   15.6MB/64.11MB
+ 2320f9be4a9c Extracting [================>                                  ]  20.61MB/64.11MB
+ 49d939fa78c9 Downloading [======================>                            ]  1.753MB/3.827MB
+ 2320f9be4a9c Extracting [==================>                                ]   23.4MB/64.11MB
+ 49d939fa78c9 Downloading [==========================================>        ]   3.26MB/3.827MB
+ 2320f9be4a9c Extracting [===================>                               ]  25.62MB/64.11MB
+ 49d939fa78c9 Downloading [================================================>  ]  3.686MB/3.827MB
+ 49d939fa78c9 Verifying Checksum 
+ 49d939fa78c9 Download complete 
+ 2320f9be4a9c Extracting [=====================>                             ]  27.85MB/64.11MB
+ 2320f9be4a9c Extracting [=======================>                           ]  29.52MB/64.11MB
+ 2320f9be4a9c Extracting [========================>                          ]  31.75MB/64.11MB
+ 2320f9be4a9c Extracting [==========================>                        ]  33.42MB/64.11MB
+ 2320f9be4a9c Extracting [==========================>                        ]  34.54MB/64.11MB
+ 2320f9be4a9c Extracting [============================>                      ]  36.77MB/64.11MB
+ 2320f9be4a9c Extracting [=============================>                     ]  37.88MB/64.11MB
+ 2320f9be4a9c Extracting [===============================>                   ]  40.67MB/64.11MB
+ 2320f9be4a9c Extracting [=================================>                 ]  43.45MB/64.11MB
+ 2320f9be4a9c Extracting [===================================>               ]  45.12MB/64.11MB
+ 2320f9be4a9c Extracting [=====================================>             ]  47.91MB/64.11MB
+ 2320f9be4a9c Extracting [=====================================>             ]  48.46MB/64.11MB
+ 2320f9be4a9c Extracting [=======================================>           ]  50.14MB/64.11MB
+ 2320f9be4a9c Extracting [=========================================>         ]  52.92MB/64.11MB
+ 2320f9be4a9c Extracting [===========================================>       ]  56.26MB/64.11MB
+ 2320f9be4a9c Extracting [==============================================>    ]  59.05MB/64.11MB
+ 2320f9be4a9c Extracting [==============================================>    ]  60.16MB/64.11MB
+ 2320f9be4a9c Extracting [================================================>  ]  61.83MB/64.11MB
+ 2320f9be4a9c Extracting [=================================================> ]   63.5MB/64.11MB
+ 2320f9be4a9c Extracting [==================================================>]  64.11MB/64.11MB
+ 2320f9be4a9c Pull complete 
+ 6e5565e0ba8d Extracting [>                                                  ]  557.1kB/211MB
+ 6e5565e0ba8d Extracting [=>                                                 ]  4.456MB/211MB
+ 6e5565e0ba8d Extracting [==>                                                ]  10.03MB/211MB
+ 6e5565e0ba8d Extracting [===>                                               ]  14.48MB/211MB
+ 6e5565e0ba8d Extracting [====>                                              ]  18.38MB/211MB
+ 6e5565e0ba8d Extracting [====>                                              ]  20.61MB/211MB
+ 6e5565e0ba8d Extracting [=====>                                             ]  21.73MB/211MB
+ 6e5565e0ba8d Extracting [=====>                                             ]  22.28MB/211MB
+ 6e5565e0ba8d Extracting [=====>                                             ]   23.4MB/211MB
+ 6e5565e0ba8d Extracting [=====>                                             ]  23.95MB/211MB
+ 6e5565e0ba8d Extracting [=====>                                             ]  25.07MB/211MB
+ 6e5565e0ba8d Extracting [======>                                            ]  26.18MB/211MB
+ 6e5565e0ba8d Extracting [======>                                            ]   27.3MB/211MB
+ 6e5565e0ba8d Extracting [======>                                            ]  27.85MB/211MB
+ 6e5565e0ba8d Extracting [======>                                            ]  29.52MB/211MB
+ 6e5565e0ba8d Extracting [========>                                          ]  34.54MB/211MB
+ 6e5565e0ba8d Extracting [========>                                          ]  37.88MB/211MB
+ 6e5565e0ba8d Extracting [=========>                                         ]  41.22MB/211MB
+ 6e5565e0ba8d Extracting [==========>                                        ]  45.68MB/211MB
+ 6e5565e0ba8d Extracting [===========>                                       ]  50.14MB/211MB
+ 6e5565e0ba8d Extracting [============>                                      ]  54.03MB/211MB
+ 6e5565e0ba8d Extracting [=============>                                     ]  56.26MB/211MB
+ 6e5565e0ba8d Extracting [==============>                                    ]  60.16MB/211MB
+ 6e5565e0ba8d Extracting [===============>                                   ]   63.5MB/211MB
+ 6e5565e0ba8d Extracting [================>                                  ]  67.96MB/211MB
+ 6e5565e0ba8d Extracting [================>                                  ]  70.75MB/211MB
+ 6e5565e0ba8d Extracting [=================>                                 ]  74.09MB/211MB
+ 6e5565e0ba8d Extracting [=================>                                 ]  75.76MB/211MB
+ 6e5565e0ba8d Extracting [==================>                                ]  77.43MB/211MB
+ 6e5565e0ba8d Extracting [===================>                               ]  80.77MB/211MB
+ 6e5565e0ba8d Extracting [===================>                               ]  84.12MB/211MB
+ 6e5565e0ba8d Extracting [====================>                              ]  88.01MB/211MB
+ 6e5565e0ba8d Extracting [=====================>                             ]  91.91MB/211MB
+ 6e5565e0ba8d Extracting [======================>                            ]  95.26MB/211MB
+ 6e5565e0ba8d Extracting [=======================>                           ]   98.6MB/211MB
+ 6e5565e0ba8d Extracting [========================>                          ]  101.9MB/211MB
+ 6e5565e0ba8d Extracting [========================>                          ]  105.3MB/211MB
+ 6e5565e0ba8d Extracting [=========================>                         ]  108.6MB/211MB
+ 6e5565e0ba8d Extracting [==========================>                        ]  112.5MB/211MB
+ 6e5565e0ba8d Extracting [===========================>                       ]    117MB/211MB
+ 6e5565e0ba8d Extracting [============================>                      ]  121.4MB/211MB
+ 6e5565e0ba8d Extracting [=============================>                     ]  124.8MB/211MB
+ 6e5565e0ba8d Extracting [==============================>                    ]  129.2MB/211MB
+ 6e5565e0ba8d Extracting [===============================>                   ]  133.7MB/211MB
+ 6e5565e0ba8d Extracting [================================>                  ]  137.6MB/211MB
+ 6e5565e0ba8d Extracting [=================================>                 ]  140.9MB/211MB
+ 6e5565e0ba8d Extracting [==================================>                ]  144.8MB/211MB
+ 6e5565e0ba8d Extracting [===================================>               ]  148.7MB/211MB
+ 6e5565e0ba8d Extracting [====================================>              ]  152.1MB/211MB
+ 6e5565e0ba8d Extracting [====================================>              ]  155.4MB/211MB
+ 6e5565e0ba8d Extracting [=====================================>             ]  158.8MB/211MB
+ 6e5565e0ba8d Extracting [======================================>            ]  162.1MB/211MB
+ 6e5565e0ba8d Extracting [=======================================>           ]  164.9MB/211MB
+ 6e5565e0ba8d Extracting [=======================================>           ]  167.1MB/211MB
+ 6e5565e0ba8d Extracting [========================================>          ]  169.3MB/211MB
+ 6e5565e0ba8d Extracting [========================================>          ]  170.5MB/211MB
+ 6e5565e0ba8d Extracting [=========================================>         ]  174.4MB/211MB
+ 6e5565e0ba8d Extracting [==========================================>        ]  179.4MB/211MB
+ 6e5565e0ba8d Extracting [===========================================>       ]  182.7MB/211MB
+ 6e5565e0ba8d Extracting [============================================>      ]  187.2MB/211MB
+ 6e5565e0ba8d Extracting [============================================>      ]  189.4MB/211MB
+ 6e5565e0ba8d Extracting [=============================================>     ]  192.2MB/211MB
+ 6e5565e0ba8d Extracting [==============================================>    ]  194.4MB/211MB
+ 6e5565e0ba8d Extracting [==============================================>    ]  196.1MB/211MB
+ 6e5565e0ba8d Extracting [===============================================>   ]  198.9MB/211MB
+ 6e5565e0ba8d Extracting [===============================================>   ]  201.1MB/211MB
+ 6e5565e0ba8d Extracting [================================================>  ]  203.9MB/211MB
+ 6e5565e0ba8d Extracting [================================================>  ]  206.1MB/211MB
+ 6e5565e0ba8d Extracting [=================================================> ]  207.8MB/211MB
+ 6e5565e0ba8d Extracting [=================================================> ]  208.3MB/211MB
+ 6e5565e0ba8d Extracting [=================================================> ]  209.5MB/211MB
+ 6e5565e0ba8d Extracting [=================================================> ]    210MB/211MB
+ 6e5565e0ba8d Extracting [=================================================> ]  210.6MB/211MB
+ 6e5565e0ba8d Extracting [==================================================>]    211MB/211MB
+ 6e5565e0ba8d Pull complete 
+ d3797e13cc41 Extracting [>                                                  ]  65.54kB/6.389MB
+ d3797e13cc41 Extracting [===============>                                   ]  1.966MB/6.389MB
+ d3797e13cc41 Extracting [=========================================>         ]  5.308MB/6.389MB
+ d3797e13cc41 Extracting [===============================================>   ]  6.095MB/6.389MB
+ d3797e13cc41 Extracting [==================================================>]  6.389MB/6.389MB
+ d3797e13cc41 Pull complete 
+ 9421d62bef94 Extracting [>                                                  ]  163.8kB/15.82MB
+ 9421d62bef94 Extracting [========>                                          ]  2.621MB/15.82MB
+ 9421d62bef94 Extracting [===================>                               ]  6.062MB/15.82MB
+ 9421d62bef94 Extracting [=====================>                             ]  6.881MB/15.82MB
+ 9421d62bef94 Extracting [==================================>                ]  10.98MB/15.82MB
+ 9421d62bef94 Extracting [===========================================>       ]  13.76MB/15.82MB
+ 9421d62bef94 Extracting [================================================>  ]   15.4MB/15.82MB
+ 9421d62bef94 Extracting [==================================================>]  15.82MB/15.82MB
+ 9421d62bef94 Pull complete 
+ 19d7d75bfdca Extracting [==================================================>]     243B/243B
+ 19d7d75bfdca Extracting [==================================================>]     243B/243B
+ 19d7d75bfdca Pull complete 
+ 67f28346abde Extracting [>                                                  ]  32.77kB/2.846MB
+ 67f28346abde Extracting [===================>                               ]  1.114MB/2.846MB
+ 67f28346abde Extracting [======================================>            ]  2.195MB/2.846MB
+ 67f28346abde Extracting [==================================================>]  2.846MB/2.846MB
+ 67f28346abde Pull complete 
+ 0cf53032c230 Extracting [==================================================>]     115B/115B
+ 0cf53032c230 Extracting [==================================================>]     115B/115B
+ 0cf53032c230 Pull complete 
+ 7fd1e151fa8d Extracting [==================================================>]     283B/283B
+ 7fd1e151fa8d Extracting [==================================================>]     283B/283B
+ 7fd1e151fa8d Pull complete 
+ 4e6d698d2e77 Extracting [>                                                  ]  229.4kB/21.08MB
+ 4e6d698d2e77 Extracting [=======================>                           ]  10.09MB/21.08MB
+ 4e6d698d2e77 Extracting [===========================>                       ]  11.47MB/21.08MB
+ 4e6d698d2e77 Extracting [============================>                      ]  12.16MB/21.08MB
+ 4e6d698d2e77 Extracting [==============================>                    ]  12.85MB/21.08MB
+ 4e6d698d2e77 Extracting [================================>                  ]  13.53MB/21.08MB
+ 4e6d698d2e77 Extracting [==================================>                ]  14.45MB/21.08MB
+ 4e6d698d2e77 Extracting [===================================>               ]  14.91MB/21.08MB
+ 4e6d698d2e77 Extracting [===================================>               ]  15.14MB/21.08MB
+ 4e6d698d2e77 Extracting [====================================>              ]   15.6MB/21.08MB
+ 4e6d698d2e77 Extracting [=====================================>             ]  15.83MB/21.08MB
+ 4e6d698d2e77 Extracting [======================================>            ]  16.06MB/21.08MB
+ 4e6d698d2e77 Extracting [=======================================>           ]  16.74MB/21.08MB
+ 4e6d698d2e77 Extracting [=========================================>         ]  17.66MB/21.08MB
+ 4e6d698d2e77 Extracting [============================================>      ]  18.58MB/21.08MB
+ 4e6d698d2e77 Extracting [==============================================>    ]  19.73MB/21.08MB
+ 4e6d698d2e77 Extracting [===============================================>   ]  20.19MB/21.08MB
+ 4e6d698d2e77 Extracting [==================================================>]  21.08MB/21.08MB
+ 4e6d698d2e77 Extracting [==================================================>]  21.08MB/21.08MB
+ 4e6d698d2e77 Pull complete 
+ 49d939fa78c9 Extracting [>                                                  ]  65.54kB/3.827MB
+ 49d939fa78c9 Extracting [=======================================>           ]  3.015MB/3.827MB
+ 49d939fa78c9 Extracting [==================================================>]  3.827MB/3.827MB
+ 49d939fa78c9 Pull complete 
+ web Pulled 
+ Network djangocicd_default  Creating
+ Network djangocicd_default  Created
+ Container djangocicd-web-1  Creating
+ Container djangocicd-web-1  Created
+ Container djangocicd-web-1  Starting
+ Container djangocicd-web-1  Started
+[8mha:////4OfHh1VocltJj1X2jGZY4prVkczdC402GcXj8wcPHJk2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BpKm1V++AAAA[0m[Pipeline] }
+[8mha:////4C8St1aAV9T9T7ppQF7MYD9eM2npLbt3MzUuLN8XwRPzAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKChKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN6FFjuO+AAAA[0m[Pipeline] // stage
+[8mha:////4D4uVTWd4591cZKtWraTLFQuY48sqDF1Kqk5eRasqibIAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYRTgGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvghbsEMEAAAA=[0m[Pipeline] stage
+[8mha:////4EI0HN379cDCTbAyOUHiKJfYrywDm01QCuM1Z70zttDTAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QIIBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfADpB/iZwgAAAA==[0m[Pipeline] { (Cleanup)
+[8mha:////4Gy+gw1UvZvZCXV+MwCntuo63aMN+8BEjyy7R1Kt4fYRAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUICEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAEGDPXtvgAAAA==[0m[Pipeline] echo
+Cleaning unused Docker resources
+[8mha:////4OAaOOKDZAEfuSCAeOpz1DYQVHFrlRtG9r6mXX/yyHgqAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUCCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAFHPe70vgAAAA==[0m[Pipeline] sh
++ docker system prune -f
+Deleted Images:
+untagged: aruhehe/notes-app@sha256:7afd42cc4aaaef26c431c5d2d1bd64d5fad299cac501a3704810c392421d4b1e
+deleted: sha256:087784e6da089f0a70909de80a2b1c16af343ccd6a2379b0fc6e4b22d24a5f41
+deleted: sha256:ba0d86419347a27fef9c4ae141c0e10a16b70a43173339633ac1a4104c5a2a3f
+deleted: sha256:671f357bfe23dacf251286d2667851cf523f62b22288325d5565d43b58976816
+deleted: sha256:44edf85dc99239fa6115814aa3d4c7ca0511fa103233150c41d7c79b72d302f1
+deleted: sha256:7bce45bb9cfcdf073fd0f8210251d285056938565b574398fe8506af05525624
+deleted: sha256:abdbe235455d6f99790be7b0eb706e2d84a52d720913dc100efb4e4b263d5c8a
+deleted: sha256:4dc64792a8e0023fe2d90a549ad8107d0cca73437ad3232f41d07ba3621bd68a
+deleted: sha256:9a26f801b1df489032c2409b0ba7dd3859dd7f440334f65e9df8a41eb2a01116
+deleted: sha256:ef19f84cd4ba2752e686bdbafc1e617d702de75a44340e97fdd0385fc9ce711b
+
+Total reclaimed space: 246MB
+[8mha:////4ED1q0py8XOnMch2w6ytl6uwXZ4+0o6ezwQkpz89MsRVAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBBIFSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAP3+A6L4AAAA=[0m[Pipeline] }
+[8mha:////4DcPigOzW2XJUjbVApoLru2v5C7mjti+n+9AI3ogyqGwAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBKJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw8MnNtUvgAAAA==[0m[Pipeline] // stage
+[8mha:////4ObZTGJAjO9ZqHT5LH7RIq0iO3YO5egJW7Vzt6GYDItpAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6Ikhs04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwAVulI+L0AAAA=[0m[Pipeline] }
+[8mha:////4AV+DRJCyhfJTkIKI1zcXc/QmMxo0GWAK58odWT+YBLlAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIU2DlWthkaTxAhxkBmF5NFqDyRV/MOMjJj5a/+e817vbFOEUeOTrWWOk+p9qoPg5ufGjl218CjavmiaqbEwarKjhU39rRgxWKxLMux0thYqgMnT06w1a15mCIYcsVZ4uwOGrlv7ngi03NZTJQvTBG729Akpl/nbwBT3wvyfSnIyg9FVUxbvQAAAA==[0m[Pipeline] // node
+[8mha:////4IykTW5bspVrEIhbkXoVxLGnYjTOeo8QlcBTW9r60IVhAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6Ikhs04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aw7lrnr0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

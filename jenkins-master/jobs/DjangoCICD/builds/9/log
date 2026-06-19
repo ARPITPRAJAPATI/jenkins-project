@@ -1,0 +1,118 @@
+Started by user [8mha:////4JJU30kivkk7i2+MYZ+sEcoG+nTV673L7S1xHn1Da1BGAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZe/dLi1CL9xKLSjNSMVABrO4oSwgAAAA==[0mArpit kumar prajapati
+[8mha:////4LE0mNe4aDlveL5+olh3HcPeY1IxVENHeRzvduBunvI7AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4HwH2kDwtwV56jGlOSBaoltMtBZe+Fpaj7DDMgP9WO3GAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4CbrNIBxL/tA7iMKsqe6y4WWZBw8/Yn7TRleqb8lCodbAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYx/eT83ILSktQifcf01LwSVSOXxKJSfQD61y5cywAAAA==[0mAgent-aru in /home/ubuntu/workspace/DjangoCICD
+[8mha:////4L7SOEp+w4PBVbGDxG4NEBRaNx/5/JkTluNOBdn9Oq3xAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4FKa2f4Yuna9rC5o/OqcMhiRxX94AiDPWW4fpcSc/ybSAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4JH4EFOwrOcgRTwMje1ATYv3SbJRvkTtQYUoL/jijwowAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Code)
+[8mha:////4Fz0hMYiEptC/pqrtwC5BMC4+k8uHCeUCA/qkuzZhLWMAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] echo
+This is cloning the code
+[8mha:////4K865gFWDZx563IgRbSP8AALiy7pnZl1/Y5pmMB7DNEiAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED8v8DEJvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+Fetching changes from the remote Git repository
+ > git rev-parse --resolve-git-dir /home/ubuntu/workspace/DjangoCICD/.git # timeout=10
+ > git config remote.origin.url https://github.com/LondheShubham153/django-notes-app.git # timeout=10
+Fetching upstream changes from https://github.com/LondheShubham153/django-notes-app.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/LondheShubham153/django-notes-app.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+Checking out Revision 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 (refs/remotes/origin/dev)
+ > git rev-parse refs/remotes/origin/dev^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b dev 93aae3bd6c35f947f52b88e4cf053d2f1fd89185 # timeout=10
+Commit message: "Update docker-compose.yml"
+First time build. Skipping changelog.
+[8mha:////4CpBa96FjI9AiO0oSrstRWtvwT0HryJqXWsS02sXdubYAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED9uwSoQvAAAAA==[0m[Pipeline] echo
+code clone success
+[8mha:////4OvELxGBl7ecPuUSEcVKRlI+h8AwGoKkywu5k2xfH3LVAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJoY+NY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfId1tBtv8AqUpLPL0AAAA=[0m[Pipeline] }
+[8mha:////4AGFbEuo3LuZWkUIdHJCtuYxMghSKTnR1Lx95FyNNHpXAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMhZVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8AozIimL0AAAA=[0m[Pipeline] // stage
+[8mha:////4PYlAJpZ8lBgYPcC1Uuuz9WPybJ4VSkUtYwTw3XrDFZmAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2Gw/x/INvUXiHMEAAAA=[0m[Pipeline] stage
+[8mha:////4Hc0OBKf+6IEkJxNHkaYqhM+JbT3M29pIdLir+0oGjqBAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Build)
+[8mha:////4MyMxG0lnqkrfvjnAz1NiIMjYuTBWVnRLFObWrcsm4AmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] echo
+This is building the code
+[8mha:////4GO1Qj7R3gjqTDgB2nf+En2tVFnw5Zh2Zg/QVuIr9xjMAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN0uFte2+AAAA[0m[Pipeline] sh
++ docker build -t notes-app:latest .
+DEPRECATED: The legacy builder is deprecated and will be removed in a future release.
+            Install the buildx component to build images with BuildKit:
+            https://docs.docker.com/go/buildx/
+
+Sending build context to Docker daemon  8.413MB
+Step 1/7 : FROM python:3.9
+ ---> bcd3da597491
+Step 2/7 : WORKDIR /app/backend
+ ---> Using cache
+ ---> 2840389eabb6
+Step 3/7 : COPY requirements.txt /app/backend
+ ---> Using cache
+ ---> 18902c62a9c5
+Step 4/7 : RUN pip install -r requirements.txt
+ ---> Running in 7de522c40fd0
+Collecting asgiref==3.6.0
+  Downloading asgiref-3.6.0-py3-none-any.whl (23 kB)
+Collecting Django==4.1.5
+  Downloading Django-4.1.5-py3-none-any.whl (8.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.1/8.1 MB 88.7 MB/s eta 0:00:00
+Collecting django-cors-headers==3.13.0
+  Downloading django_cors_headers-3.13.0-py3-none-any.whl (13 kB)
+Collecting djangorestframework==3.14.0
+  Downloading djangorestframework-3.14.0-py3-none-any.whl (1.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 67.1 MB/s eta 0:00:00
+Collecting gunicorn==20.1.0
+  Downloading gunicorn-20.1.0-py3-none-any.whl (79 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 79.5/79.5 kB 12.2 MB/s eta 0:00:00
+Collecting pytz==2022.7.1
+  Downloading pytz-2022.7.1-py2.py3-none-any.whl (499 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 499.4/499.4 kB 49.7 MB/s eta 0:00:00
+Collecting sqlparse==0.4.3
+  Downloading sqlparse-0.4.3-py3-none-any.whl (42 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.8/42.8 kB 5.9 MB/s eta 0:00:00
+Collecting tzdata==2022.7
+  Downloading tzdata-2022.7-py2.py3-none-any.whl (340 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 340.1/340.1 kB 35.1 MB/s eta 0:00:00
+Collecting whitenoise==6.3.0
+  Downloading whitenoise-6.3.0-py3-none-any.whl (19 kB)
+Requirement already satisfied: setuptools>=3.0 in /usr/local/lib/python3.9/site-packages (from gunicorn==20.1.0->-r requirements.txt (line 5)) (79.0.1)
+Installing collected packages: pytz, whitenoise, tzdata, sqlparse, gunicorn, asgiref, Django, djangorestframework, django-cors-headers
+Successfully installed Django-4.1.5 asgiref-3.6.0 django-cors-headers-3.13.0 djangorestframework-3.14.0 gunicorn-20.1.0 pytz-2022.7.1 sqlparse-0.4.3 tzdata-2022.7 whitenoise-6.3.0
+[91mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[0m[91m
+[notice] A new release of pip is available: 23.0.1 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+[0m ---> Removed intermediate container 7de522c40fd0
+ ---> 28adcfa136f8
+Step 5/7 : COPY . /app/backend
+ ---> 6c9fef7d8c6a
+Step 6/7 : EXPOSE 8000
+ ---> Running in e6eee6756940
+ ---> Removed intermediate container e6eee6756940
+ ---> fa29516a9d3e
+Step 7/7 : CMD python /app/backend/manage.py runserver 0.0.0.0:8000
+ ---> Running in 13116319d1ef
+ ---> Removed intermediate container 13116319d1ef
+ ---> 3dc15b5133d2
+Successfully built 3dc15b5133d2
+Successfully tagged notes-app:latest
+[8mha:////4K3xq/HVRukq10d43eA2bbXPb0qKIzge23D9DH1bBDu9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEeFbpZvgAAAA==[0m[Pipeline] }
+[8mha:////4AXriVtFPJfktYIKAUltXWanqmIPxsFXFhfLc4yKYJooAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7Ny324eW+AAAA[0m[Pipeline] // stage
+[8mha:////4Is7cLAvXugK8Tfbsu2rbl8T4+qkd/5xz1+2aPORjJWuAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJAokREVrueEFJjbGiXUX7AtJxYv4Gn8gEImKrXZWWs3zBWVOcKDkZeOwDZjrILvY+6nJgVJ7iTTIhs6yJswUndRu0GTdcUZN7GCOKGChYOmwjpQDeoaVaszdVNGgr06cpm2voAj2Bg8QajKzSfyFMcH62ttM+PP8FcDYMYgtQ7HZfY7lG9tmeb3BAAAA[0m[Pipeline] stage
+[8mha:////4MCTcibe2b1k1/b8/iqQ0HaIJizLLypYe2wrrhgC9uBxAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUbCDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASnCIIrCAAAA[0m[Pipeline] { (Test)
+[8mha:////4OZN4F+1x8HLe501q1jytFCJlTtT90hY72c4pUWfGnj0AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICdAilorXc8AKTGOPEugu2g1PxIr7GH7CIRMUWq51t5vWGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYI5e6Qa78dPhmQ9Da+AAAA[0m[Pipeline] echo
+This is testing the code
+[8mha:////4C1UyzNQY1CJkmccogyCySmIq79UUh1jOR92pmgZfSN1AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKi0CFEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BOW+zlUfPiXWgpW+AAAA[0m[Pipeline] }
+[8mha:////4FLSPaRUD+WlofwU2gYpkDPRgCTiJx+XDlp/GEuspS94AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRqZAQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJyjrOtf+8AEdlBFkvgAAAA==[0m[Pipeline] // stage
+[8mha:////4NQ0G43a/voZ7r9wE8lOeXxJBpFYJ/6WIwfmfCw+U8yjAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjAR2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2Gw/x/INhYxW5sEAAAA=[0m[Pipeline] stage
+[8mha:////4PiUATsOgx5Soh2jpvXfEIVVCuSmqw/Q6EW+TfEQ1ddHAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAd6e6VPCAAAA[0m[Pipeline] { (Deploy)
+[8mha:////4MQpu2LJB2NfTTaZDchRe1bgfxrZqiZl9u6l1ysZU0TaAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN38C26S+AAAA[0m[Pipeline] echo
+This is deploying the code
+[8mha:////4JryEWwaudQFMkVFk/GLF4ba1GoOdWEJhVS46JwlaTUJAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAG8UfaPvgAAAA==[0m[Pipeline] sh
++ docker run -d -p 8000:8000 notes-app:latest
+98b81a2f87b8fda3d8da83f5e146992b335461bcde5132570b5fea0541477637
+[8mha:////4Cq7Z0UhVDvDYkktkBOnDen9vmJB5z7WxCk/w4Cqw1YRAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiISQKRJXWcsMLTGyME+vO2A5JxYv4Gn8gEImKLVY728zzBcsU4cjRYmuoc5Qah8H3dlo4cOwungds+YwNU2JvUJpBsjb1jJKzgTlFCQsBK0ON5+TIZliLVt1V5RXZ6pTj9B0ElE7f4AGFmMxZxfyFMcLm2uvE9PP8FcAYQoZyu//U7g1GGkcWvgAAAA==[0m[Pipeline] }
+[8mha:////4H02si7cLHV0ORtv3t9L5CiYzmoK1av0n2ToNMqVckYQAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQYOEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEwPXV5vgAAAA==[0m[Pipeline] // stage
+[8mha:////4A/yGGdcVE7EDxiWoVtPBXPkJ+aVJwMR3x5tixBZG40hAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREA1CVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AFo7wVm9AAAA[0m[Pipeline] }
+[8mha:////4DIbcx/TV5/XxlgAafwtfVn/f5zOkYaB6UblJ0hJO4WRAAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6KYMBon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk5V6QlR8tH+kBvQAAAA==[0m[Pipeline] // node
+[8mha:////4Gc+0WQ+t+W3kceEjytG70qS6TUNxMWiJcAqsUfQixJ4AAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny/VaQ7T4LBo5LvQAAAA==[0m[Pipeline] End of Pipeline
+Finished: SUCCESS

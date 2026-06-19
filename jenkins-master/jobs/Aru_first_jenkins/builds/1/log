@@ -1,0 +1,8 @@
+Started by user [8mha:////4JJU30kivkk7i2+MYZ+sEcoG+nTV673L7S1xHn1Da1BGAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZe/dLi1CL9xKLSjNSMVABrO4oSwgAAAA==[0mArpit kumar prajapati
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Aru_first_jenkins
+[Aru_first_jenkins] $ /bin/sh -xe /tmp/jenkins13941551337784392336.sh
++ echo  hello dosto 
+ hello dosto 
++ mkdir -p devops
+Finished: SUCCESS

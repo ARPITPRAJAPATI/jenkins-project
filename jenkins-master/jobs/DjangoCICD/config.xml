@@ -1,0 +1,97 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1571.vb_423c255d6d9">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2277.v00573e73ddf1"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2277.v00573e73ddf1">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description>this is the cicd for django app</description>
+  <keepDependencies>false</keepDependencies>
+  <properties>
+    <com.coravy.hudson.plugins.github.GithubProjectProperty plugin="github@1.46.0">
+      <projectUrl>https://github.com/ARPITPRAJAPATI/django-notes-app.git/</projectUrl>
+      <displayName>Django-notes-app</displayName>
+    </com.coravy.hudson.plugins.github.GithubProjectProperty>
+    <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+      <triggers>
+        <com.cloudbees.jenkins.GitHubPushTrigger plugin="github@1.46.0">
+          <spec></spec>
+        </com.cloudbees.jenkins.GitHubPushTrigger>
+      </triggers>
+    </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
+  </properties>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@4257.vb_2e202808577">
+    <script>@Library(&quot;Shared&quot;) _
+pipeline {
+    agent { label &quot;aru&quot; }
+
+    environment {
+        IMAGE_NAME = &quot;notes-app&quot;
+        IMAGE_TAG  = &quot;latest&quot;
+    }
+
+    stages {
+
+        stage(&quot;Clean Workspace&quot;) {
+            steps {
+                deleteDir()
+            }
+        }
+
+        stage(&quot;Hello&quot;) {
+            steps {
+                script {
+                    hello()
+                }
+            }
+        }
+
+        stage(&quot;Clone&quot;) {
+            steps {
+                script {
+                    clone(&quot;https://github.com/ARPITPRAJAPATI/django-notes-app.git&quot;, &quot;dev&quot;)
+                }
+            }
+        }
+
+        stage(&quot;Build Docker Image&quot;) {
+            steps {
+                script {
+                    docker_build(&quot;${IMAGE_NAME}&quot;, &quot;${IMAGE_TAG}&quot;, &quot;aruhehe&quot;)
+                }
+            }
+        }
+
+        stage(&quot;Push to DockerHub&quot;) {
+            steps {
+               script{
+                   docker_push(&quot;notes-app&quot;, &quot;latest&quot;, &quot;aruhehe&quot;)
+               }
+            }
+        }
+
+        stage(&quot;Deploy&quot;) {
+            steps {
+                echo &quot;Deploying container&quot;
+                sh &quot;docker compose down || true&quot;
+                sh &quot;docker compose up -d&quot;
+            }
+        }
+
+        stage(&quot;Cleanup&quot;) {
+            steps {
+                echo &quot;Cleaning unused Docker resources&quot;
+                sh &quot;docker system prune -f&quot;
+            }
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

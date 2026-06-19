@@ -1,0 +1,9 @@
+**/secrets/
+**/secret.key
+**/credentials.xml
+**/identity.key.enc
+**/caches/
+**/workspace/
+**/logs/
+**/remoting/libs/
+*.jar

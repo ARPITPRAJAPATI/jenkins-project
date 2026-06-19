@@ -1,0 +1,1448 @@
+Started by user [8mha:////4JJU30kivkk7i2+MYZ+sEcoG+nTV673L7S1xHn1Da1BGAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZe/dLi1CL9xKLSjNSMVABrO4oSwgAAAA==[0mArpit kumar prajapati
+[8mha:////4LE0mNe4aDlveL5+olh3HcPeY1IxVENHeRzvduBunvI7AAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4HwH2kDwtwV56jGlOSBaoltMtBZe+Fpaj7DDMgP9WO3GAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4CbrNIBxL/tA7iMKsqe6y4WWZBw8/Yn7TRleqb8lCodbAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYx/eT83ILSktQifcf01LwSVSOXxKJSfQD61y5cywAAAA==[0mAgent-aru in /home/ubuntu/workspace/DjangoCICD
+[8mha:////4L7SOEp+w4PBVbGDxG4NEBRaNx/5/JkTluNOBdn9Oq3xAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4FKa2f4Yuna9rC5o/OqcMhiRxX94AiDPWW4fpcSc/ybSAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4JH4EFOwrOcgRTwMje1ATYv3SbJRvkTtQYUoL/jijwowAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Code)
+[8mha:////4Fz0hMYiEptC/pqrtwC5BMC4+k8uHCeUCA/qkuzZhLWMAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] echo
+This is cloning the code
+[8mha:////4K865gFWDZx563IgRbSP8AALiy7pnZl1/Y5pmMB7DNEiAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED8v8DEJvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+No credentials specified
+Fetching changes from the remote Git repository
+ > git rev-parse --resolve-git-dir /home/ubuntu/workspace/DjangoCICD/.git # timeout=10
+Checking out Revision 45192ce33f2341666cd1a9375d0c1b65a2a17537 (refs/remotes/origin/main)
+ > git config remote.origin.url https://github.com/ARPITPRAJAPATI/django-notes-app.git # timeout=10
+Fetching upstream changes from https://github.com/ARPITPRAJAPATI/django-notes-app.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+ > git fetch --tags --force --progress -- https://github.com/ARPITPRAJAPATI/django-notes-app.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 45192ce33f2341666cd1a9375d0c1b65a2a17537 # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git branch -D main # timeout=10
+ > git checkout -b main 45192ce33f2341666cd1a9375d0c1b65a2a17537 # timeout=10
+Commit message: "Update Jenkinsfile"
+ > git rev-list --no-walk 45192ce33f2341666cd1a9375d0c1b65a2a17537 # timeout=10
+[8mha:////4CpBa96FjI9AiO0oSrstRWtvwT0HryJqXWsS02sXdubYAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED9uwSoQvAAAAA==[0m[Pipeline] echo
+Code clone success
+[8mha:////4OvELxGBl7ecPuUSEcVKRlI+h8AwGoKkywu5k2xfH3LVAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJoY+NY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfId1tBtv8AqUpLPL0AAAA=[0m[Pipeline] }
+[8mha:////4AGFbEuo3LuZWkUIdHJCtuYxMghSKTnR1Lx95FyNNHpXAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIMhZVjZZuh8QQRYgxkdjFZhMoTeTXvICMzVv7qv9e81xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8AozIimL0AAAA=[0m[Pipeline] // stage
+[8mha:////4PYlAJpZ8lBgYPcC1Uuuz9WPybJ4VSkUtYwTw3XrDFZmAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjEB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2Gw/x/INvUXiHMEAAAA=[0m[Pipeline] stage
+[8mha:////4Hc0OBKf+6IEkJxNHkaYqhM+JbT3M29pIdLir+0oGjqBAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Build)
+[8mha:////4MyMxG0lnqkrfvjnAz1NiIMjYuTBWVnRLFObWrcsm4AmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] echo
+Building Docker image
+[8mha:////4GO1Qj7R3gjqTDgB2nf+En2tVFnw5Zh2Zg/QVuIr9xjMAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN0uFte2+AAAA[0m[Pipeline] sh
++ docker build -t notes-app:latest .
+DEPRECATED: The legacy builder is deprecated and will be removed in a future release.
+            Install the buildx component to build images with BuildKit:
+            https://docs.docker.com/go/buildx/
+
+Sending build context to Docker daemon  8.404MB
+Step 1/8 : FROM python:3.9
+3.9: Pulling from library/python
+795dbedde24d: Pulling fs layer
+89d573bf42b3: Pulling fs layer
+26dfe2fac1c4: Pulling fs layer
+79d5bd8a8d26: Pulling fs layer
+081ccf923272: Pulling fs layer
+c9723aa529b0: Pulling fs layer
+91c91c91f1d2: Pulling fs layer
+081ccf923272: Waiting
+c9723aa529b0: Waiting
+79d5bd8a8d26: Waiting
+91c91c91f1d2: Waiting
+89d573bf42b3: Verifying Checksum
+89d573bf42b3: Download complete
+795dbedde24d: Verifying Checksum
+795dbedde24d: Download complete
+26dfe2fac1c4: Download complete
+081ccf923272: Verifying Checksum
+081ccf923272: Download complete
+c9723aa529b0: Verifying Checksum
+c9723aa529b0: Download complete
+91c91c91f1d2: Verifying Checksum
+91c91c91f1d2: Download complete
+79d5bd8a8d26: Verifying Checksum
+79d5bd8a8d26: Download complete
+795dbedde24d: Pull complete
+89d573bf42b3: Pull complete
+26dfe2fac1c4: Pull complete
+79d5bd8a8d26: Pull complete
+081ccf923272: Pull complete
+c9723aa529b0: Pull complete
+91c91c91f1d2: Pull complete
+Digest: sha256:da5aee29682d12a6649f51c8d6f15b87deb3e6c524b923c41d0cb3304d07c913
+Status: Downloaded newer image for python:3.9
+ ---> bcd3da597491
+Step 2/8 : WORKDIR /app/backend
+ ---> Running in 778d64395621
+ ---> Removed intermediate container 778d64395621
+ ---> 7d7599fddaf6
+Step 3/8 : COPY requirements.txt /app/backend
+ ---> dcf79dac8e2e
+Step 4/8 : RUN apt-get update     && apt-get upgrade -y     && apt-get install -y gcc default-libmysqlclient-dev pkg-config     && rm -rf /var/lib/apt/lists/*
+ ---> Running in 8c5faae89e77
+Get:1 http://deb.debian.org/debian trixie InRelease [140 kB]
+Get:2 http://deb.debian.org/debian trixie-updates InRelease [47.3 kB]
+Get:3 http://deb.debian.org/debian-security trixie-security InRelease [43.4 kB]
+Get:4 http://deb.debian.org/debian trixie/main amd64 Packages [9670 kB]
+Get:5 http://deb.debian.org/debian trixie-updates/main amd64 Packages [5412 B]
+Get:6 http://deb.debian.org/debian-security trixie-security/main amd64 Packages [113 kB]
+Fetched 10.0 MB in 1s (8798 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages will be upgraded:
+  base-files bash comerr-dev curl dirmngr gir1.2-glib-2.0 gir1.2-glib-2.0-dev
+  girepository-tools gnupg gnupg-l10n gpg gpg-agent gpgconf gpgsm imagemagick
+  imagemagick-7-common imagemagick-7.q16 libc-bin libc-dev-bin libc6 libc6-dev
+  libcap2 libcom-err2 libcurl3t64-gnutls libcurl4-openssl-dev libcurl4t64
+  libgio-2.0-dev libgio-2.0-dev-bin libgirepository-2.0-0 libglib2.0-0t64
+  libglib2.0-bin libglib2.0-data libglib2.0-dev libglib2.0-dev-bin
+  libgnutls-dane0t64 libgnutls-openssl27t64 libgnutls28-dev libgnutls30t64
+  libmagickcore-7-arch-config libmagickcore-7-headers libmagickcore-7.q16-10
+  libmagickcore-7.q16-10-extra libmagickcore-7.q16-dev libmagickcore-dev
+  libmagickwand-7-headers libmagickwand-7.q16-10 libmagickwand-7.q16-dev
+  libmagickwand-dev libpng-dev libpng16-16t64 libpq-dev libpq5 libssl-dev
+  libssl3t64 libsystemd0 libudev1 libunbound8 libxml2 libxml2-dev
+  linux-libc-dev openssl openssl-provider-legacy sq sqv x11-common
+65 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 46.6 MB of archives.
+After this operation, 157 kB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian trixie/main amd64 libc6-dev amd64 2.41-12+deb13u1 [1994 kB]
+Get:2 http://deb.debian.org/debian trixie/main amd64 libc-dev-bin amd64 2.41-12+deb13u1 [58.5 kB]
+Get:3 http://deb.debian.org/debian-security trixie-security/main amd64 linux-libc-dev all 6.12.73-1 [2745 kB]
+Get:4 http://deb.debian.org/debian trixie/main amd64 libc6 amd64 2.41-12+deb13u1 [2851 kB]
+Get:5 http://deb.debian.org/debian trixie/main amd64 base-files amd64 13.8+deb13u3 [73.3 kB]
+Get:6 http://deb.debian.org/debian trixie/main amd64 bash amd64 5.2.37-2+b7 [1501 kB]
+Get:7 http://deb.debian.org/debian trixie/main amd64 libc-bin amd64 2.41-12+deb13u1 [637 kB]
+Get:8 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-7.q16-dev amd64 8:7.1.1.43+dfsg1-1+deb13u5 [355 kB]
+Get:9 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-dev all 8:7.1.1.43+dfsg1-1+deb13u5 [1144 B]
+Get:10 http://deb.debian.org/debian-security trixie-security/main amd64 libpng-dev amd64 1.6.48-1+deb13u3 [367 kB]
+Get:11 http://deb.debian.org/debian-security trixie-security/main amd64 libpng16-16t64 amd64 1.6.48-1+deb13u3 [283 kB]
+Get:12 http://deb.debian.org/debian trixie/main amd64 libxml2-dev amd64 2.12.7+dfsg+really2.9.14-2.1+deb13u2 [794 kB]
+Get:13 http://deb.debian.org/debian trixie/main amd64 libxml2 amd64 2.12.7+dfsg+really2.9.14-2.1+deb13u2 [698 kB]
+Get:14 http://deb.debian.org/debian-security trixie-security/main amd64 imagemagick-7.q16 amd64 8:7.1.1.43+dfsg1-1+deb13u5 [729 kB]
+Get:15 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7.q16-dev amd64 8:7.1.1.43+dfsg1-1+deb13u5 [1109 kB]
+Get:16 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7.q16-10 amd64 8:7.1.1.43+dfsg1-1+deb13u5 [1848 kB]
+Get:17 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-7.q16-10 amd64 8:7.1.1.43+dfsg1-1+deb13u5 [344 kB]
+Get:18 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-dev all 8:7.1.1.43+dfsg1-1+deb13u5 [1160 B]
+Get:19 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7-arch-config amd64 8:7.1.1.43+dfsg1-1+deb13u5 [30.5 kB]
+Get:20 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-7-headers all 8:7.1.1.43+dfsg1-1+deb13u5 [9868 B]
+Get:21 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7-headers all 8:7.1.1.43+dfsg1-1+deb13u5 [50.4 kB]
+Get:22 http://deb.debian.org/debian-security trixie-security/main amd64 imagemagick-7-common all 8:7.1.1.43+dfsg1-1+deb13u5 [70.2 kB]
+Get:23 http://deb.debian.org/debian trixie/main amd64 gir1.2-glib-2.0-dev amd64 2.84.4-3~deb13u2 [917 kB]
+Get:24 http://deb.debian.org/debian trixie/main amd64 gir1.2-glib-2.0 amd64 2.84.4-3~deb13u2 [199 kB]
+Get:25 http://deb.debian.org/debian trixie/main amd64 girepository-tools amd64 2.84.4-3~deb13u2 [151 kB]
+Get:26 http://deb.debian.org/debian trixie/main amd64 libglib2.0-dev-bin amd64 2.84.4-3~deb13u2 [55.3 kB]
+Get:27 http://deb.debian.org/debian trixie/main amd64 libgio-2.0-dev-bin amd64 2.84.4-3~deb13u2 [167 kB]
+Get:28 http://deb.debian.org/debian trixie/main amd64 libglib2.0-dev amd64 2.84.4-3~deb13u2 [56.1 kB]
+Get:29 http://deb.debian.org/debian trixie/main amd64 libgio-2.0-dev amd64 2.84.4-3~deb13u2 [1689 kB]
+Get:30 http://deb.debian.org/debian trixie/main amd64 libgirepository-2.0-0 amd64 2.84.4-3~deb13u2 [144 kB]
+Get:31 http://deb.debian.org/debian trixie/main amd64 libglib2.0-data all 2.84.4-3~deb13u2 [1286 kB]
+Get:32 http://deb.debian.org/debian trixie/main amd64 libglib2.0-bin amd64 2.84.4-3~deb13u2 [131 kB]
+Get:33 http://deb.debian.org/debian trixie/main amd64 libglib2.0-0t64 amd64 2.84.4-3~deb13u2 [1518 kB]
+Get:34 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7.q16-10-extra amd64 8:7.1.1.43+dfsg1-1+deb13u5 [75.2 kB]
+Get:35 http://deb.debian.org/debian trixie/main amd64 libcap2 amd64 1:2.75-10+b3 [28.8 kB]
+Get:36 http://deb.debian.org/debian-security trixie-security/main amd64 libssl-dev amd64 3.5.4-1~deb13u2 [2958 kB]
+Get:37 http://deb.debian.org/debian-security trixie-security/main amd64 openssl-provider-legacy amd64 3.5.4-1~deb13u2 [308 kB]
+Get:38 http://deb.debian.org/debian-security trixie-security/main amd64 libssl3t64 amd64 3.5.4-1~deb13u2 [2442 kB]
+Get:39 http://deb.debian.org/debian trixie/main amd64 libsystemd0 amd64 257.9-1~deb13u1 [453 kB]
+Get:40 http://deb.debian.org/debian trixie/main amd64 libudev1 amd64 257.9-1~deb13u1 [152 kB]
+Get:41 http://deb.debian.org/debian trixie/main amd64 sqv amd64 1.3.0-3+b2 [661 kB]
+Get:42 http://deb.debian.org/debian trixie/main amd64 comerr-dev amd64 2.1-1.47.2-3+b7 [56.7 kB]
+Get:43 http://deb.debian.org/debian trixie/main amd64 libcom-err2 amd64 1.47.2-3+b7 [25.0 kB]
+Get:44 http://deb.debian.org/debian trixie/main amd64 libcurl4-openssl-dev amd64 8.14.1-2+deb13u2 [511 kB]
+Get:45 http://deb.debian.org/debian trixie/main amd64 curl amd64 8.14.1-2+deb13u2 [270 kB]
+Get:46 http://deb.debian.org/debian trixie/main amd64 libcurl4t64 amd64 8.14.1-2+deb13u2 [391 kB]
+Get:47 http://deb.debian.org/debian trixie/main amd64 gpgsm amd64 2.4.7-21+deb13u1+b1 [275 kB]
+Get:48 http://deb.debian.org/debian trixie/main amd64 gpg amd64 2.4.7-21+deb13u1+b1 [634 kB]
+Get:49 http://deb.debian.org/debian trixie/main amd64 dirmngr amd64 2.4.7-21+deb13u1+b1 [384 kB]
+Get:50 http://deb.debian.org/debian trixie/main amd64 gnupg all 2.4.7-21+deb13u1 [417 kB]
+Get:51 http://deb.debian.org/debian trixie/main amd64 gpgconf amd64 2.4.7-21+deb13u1+b1 [129 kB]
+Get:52 http://deb.debian.org/debian trixie/main amd64 gpg-agent amd64 2.4.7-21+deb13u1+b1 [271 kB]
+Get:53 http://deb.debian.org/debian trixie/main amd64 gnupg-l10n all 2.4.7-21+deb13u1 [749 kB]
+Get:54 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls28-dev amd64 3.8.9-3+deb13u2 [1409 kB]
+Get:55 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls-openssl27t64 amd64 3.8.9-3+deb13u2 [455 kB]
+Get:56 http://deb.debian.org/debian trixie/main amd64 libunbound8 amd64 1.22.0-2+deb13u1 [598 kB]
+Get:57 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls-dane0t64 amd64 3.8.9-3+deb13u2 [455 kB]
+Get:58 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls30t64 amd64 3.8.9-3+deb13u2 [1468 kB]
+Get:59 http://deb.debian.org/debian-security trixie-security/main amd64 imagemagick amd64 8:7.1.1.43+dfsg1-1+deb13u5 [22.8 kB]
+Get:60 http://deb.debian.org/debian trixie/main amd64 libcurl3t64-gnutls amd64 8.14.1-2+deb13u2 [383 kB]
+Get:61 http://deb.debian.org/debian-security trixie-security/main amd64 libpq-dev amd64 17.8-0+deb13u1 [152 kB]
+Get:62 http://deb.debian.org/debian-security trixie-security/main amd64 libpq5 amd64 17.8-0+deb13u1 [228 kB]
+Get:63 http://deb.debian.org/debian-security trixie-security/main amd64 openssl amd64 3.5.4-1~deb13u2 [1495 kB]
+Get:64 http://deb.debian.org/debian trixie/main amd64 sq amd64 1.3.1-2+b2 [5653 kB]
+Get:65 http://deb.debian.org/debian trixie/main amd64 x11-common all 1:7.7+24+deb13u1 [217 kB]
+[91mdebconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+[0m[91mdebconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+[0m[91mdebconf: unable to initialize frontend: Teletype
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Noninteractive
+[0mPreconfiguring packages ...
+Fetched 46.6 MB in 0s (131 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../libc6-dev_2.41-12+deb13u1_amd64.deb ...
+Unpacking libc6-dev:amd64 (2.41-12+deb13u1) over (2.41-12) ...
+Preparing to unpack .../libc-dev-bin_2.41-12+deb13u1_amd64.deb ...
+Unpacking libc-dev-bin (2.41-12+deb13u1) over (2.41-12) ...
+Preparing to unpack .../linux-libc-dev_6.12.73-1_all.deb ...
+Unpacking linux-libc-dev (6.12.73-1) over (6.12.48-1) ...
+Preparing to unpack .../libc6_2.41-12+deb13u1_amd64.deb ...
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+debconf: unable to initialize frontend: Teletype
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Noninteractive
+Unpacking libc6:amd64 (2.41-12+deb13u1) over (2.41-12) ...
+Setting up libc6:amd64 (2.41-12+deb13u1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+debconf: unable to initialize frontend: Teletype
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Noninteractive
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../base-files_13.8+deb13u3_amd64.deb ...
+Unpacking base-files (13.8+deb13u3) over (13.8+deb13u1) ...
+Setting up base-files (13.8+deb13u3) ...
+Installing new version of config file /etc/debian_version ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../bash_5.2.37-2+b7_amd64.deb ...
+Unpacking bash (5.2.37-2+b7) over (5.2.37-2+b5) ...
+Setting up bash (5.2.37-2+b7) ...
+update-alternatives: using /usr/share/man/man7/bash-builtins.7.gz to provide /usr/share/man/man7/builtins.7.gz (builtins.7.gz) in auto mode
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../libc-bin_2.41-12+deb13u1_amd64.deb ...
+Unpacking libc-bin (2.41-12+deb13u1) over (2.41-12) ...
+Setting up libc-bin (2.41-12+deb13u1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../00-libmagickwand-7.q16-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking libmagickwand-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../01-libmagickwand-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+Unpacking libmagickwand-dev (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../02-libpng-dev_1.6.48-1+deb13u3_amd64.deb ...
+Unpacking libpng-dev:amd64 (1.6.48-1+deb13u3) over (1.6.48-1) ...
+Preparing to unpack .../03-libpng16-16t64_1.6.48-1+deb13u3_amd64.deb ...
+Unpacking libpng16-16t64:amd64 (1.6.48-1+deb13u3) over (1.6.48-1) ...
+Preparing to unpack .../04-libxml2-dev_2.12.7+dfsg+really2.9.14-2.1+deb13u2_amd64.deb ...
+Unpacking libxml2-dev:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) over (2.12.7+dfsg+really2.9.14-2.1+deb13u1) ...
+Preparing to unpack .../05-libxml2_2.12.7+dfsg+really2.9.14-2.1+deb13u2_amd64.deb ...
+Unpacking libxml2:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) over (2.12.7+dfsg+really2.9.14-2.1+deb13u1) ...
+Preparing to unpack .../06-imagemagick-7.q16_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking imagemagick-7.q16 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../07-libmagickcore-7.q16-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking libmagickcore-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../08-libmagickcore-7.q16-10_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking libmagickcore-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../09-libmagickwand-7.q16-10_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking libmagickwand-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../10-libmagickcore-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+Unpacking libmagickcore-dev (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../11-libmagickcore-7-arch-config_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking libmagickcore-7-arch-config:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../12-libmagickwand-7-headers_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+Unpacking libmagickwand-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../13-libmagickcore-7-headers_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+Unpacking libmagickcore-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../14-imagemagick-7-common_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+Unpacking imagemagick-7-common (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../15-gir1.2-glib-2.0-dev_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking gir1.2-glib-2.0-dev:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../16-gir1.2-glib-2.0_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking gir1.2-glib-2.0:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../17-girepository-tools_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking girepository-tools:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../18-libglib2.0-dev-bin_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libglib2.0-dev-bin (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../19-libgio-2.0-dev-bin_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libgio-2.0-dev-bin (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../20-libglib2.0-dev_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libglib2.0-dev:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../21-libgio-2.0-dev_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libgio-2.0-dev:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../22-libgirepository-2.0-0_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libgirepository-2.0-0:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../23-libglib2.0-data_2.84.4-3~deb13u2_all.deb ...
+Unpacking libglib2.0-data (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../24-libglib2.0-bin_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libglib2.0-bin (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../25-libglib2.0-0t64_2.84.4-3~deb13u2_amd64.deb ...
+Unpacking libglib2.0-0t64:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+Preparing to unpack .../26-libmagickcore-7.q16-10-extra_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking libmagickcore-7.q16-10-extra:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../27-libcap2_1%3a2.75-10+b3_amd64.deb ...
+Unpacking libcap2:amd64 (1:2.75-10+b3) over (1:2.75-10+b1) ...
+Setting up libcap2:amd64 (1:2.75-10+b3) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../libssl-dev_3.5.4-1~deb13u2_amd64.deb ...
+Unpacking libssl-dev:amd64 (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+Preparing to unpack .../openssl-provider-legacy_3.5.4-1~deb13u2_amd64.deb ...
+Unpacking openssl-provider-legacy (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+Setting up openssl-provider-legacy (3.5.4-1~deb13u2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../libssl3t64_3.5.4-1~deb13u2_amd64.deb ...
+Unpacking libssl3t64:amd64 (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+Setting up libssl3t64:amd64 (3.5.4-1~deb13u2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../libsystemd0_257.9-1~deb13u1_amd64.deb ...
+Unpacking libsystemd0:amd64 (257.9-1~deb13u1) over (257.8-1~deb13u2) ...
+Setting up libsystemd0:amd64 (257.9-1~deb13u1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../libudev1_257.9-1~deb13u1_amd64.deb ...
+Unpacking libudev1:amd64 (257.9-1~deb13u1) over (257.8-1~deb13u2) ...
+Setting up libudev1:amd64 (257.9-1~deb13u1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+Preparing to unpack .../sqv_1.3.0-3+b2_amd64.deb ...
+Unpacking sqv (1.3.0-3+b2) over (1.3.0-3) ...
+Setting up sqv (1.3.0-3+b2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26762 files and directories currently installed.)
+Preparing to unpack .../00-comerr-dev_2.1-1.47.2-3+b7_amd64.deb ...
+Unpacking comerr-dev:amd64 (2.1-1.47.2-3+b7) over (2.1-1.47.2-3+b3) ...
+Preparing to unpack .../01-libcom-err2_1.47.2-3+b7_amd64.deb ...
+Unpacking libcom-err2:amd64 (1.47.2-3+b7) over (1.47.2-3+b3) ...
+Preparing to unpack .../02-libcurl4-openssl-dev_8.14.1-2+deb13u2_amd64.deb ...
+Unpacking libcurl4-openssl-dev:amd64 (8.14.1-2+deb13u2) over (8.14.1-2) ...
+Preparing to unpack .../03-curl_8.14.1-2+deb13u2_amd64.deb ...
+Unpacking curl (8.14.1-2+deb13u2) over (8.14.1-2) ...
+Preparing to unpack .../04-libcurl4t64_8.14.1-2+deb13u2_amd64.deb ...
+Unpacking libcurl4t64:amd64 (8.14.1-2+deb13u2) over (8.14.1-2) ...
+Preparing to unpack .../05-gpgsm_2.4.7-21+deb13u1+b1_amd64.deb ...
+Unpacking gpgsm (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+Preparing to unpack .../06-gpg_2.4.7-21+deb13u1+b1_amd64.deb ...
+Unpacking gpg (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+Preparing to unpack .../07-dirmngr_2.4.7-21+deb13u1+b1_amd64.deb ...
+Unpacking dirmngr (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+Preparing to unpack .../08-gnupg_2.4.7-21+deb13u1_all.deb ...
+Unpacking gnupg (2.4.7-21+deb13u1) over (2.4.7-21) ...
+Preparing to unpack .../09-gpgconf_2.4.7-21+deb13u1+b1_amd64.deb ...
+Unpacking gpgconf (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+Preparing to unpack .../10-gpg-agent_2.4.7-21+deb13u1+b1_amd64.deb ...
+Unpacking gpg-agent (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+Preparing to unpack .../11-gnupg-l10n_2.4.7-21+deb13u1_all.deb ...
+Unpacking gnupg-l10n (2.4.7-21+deb13u1) over (2.4.7-21) ...
+Preparing to unpack .../12-libgnutls28-dev_3.8.9-3+deb13u2_amd64.deb ...
+Unpacking libgnutls28-dev:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+Preparing to unpack .../13-libgnutls-openssl27t64_3.8.9-3+deb13u2_amd64.deb ...
+Unpacking libgnutls-openssl27t64:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+Preparing to unpack .../14-libunbound8_1.22.0-2+deb13u1_amd64.deb ...
+Unpacking libunbound8:amd64 (1.22.0-2+deb13u1) over (1.22.0-2) ...
+Preparing to unpack .../15-libgnutls-dane0t64_3.8.9-3+deb13u2_amd64.deb ...
+Unpacking libgnutls-dane0t64:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+Preparing to unpack .../16-libgnutls30t64_3.8.9-3+deb13u2_amd64.deb ...
+Unpacking libgnutls30t64:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+Preparing to unpack .../17-imagemagick_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+Unpacking imagemagick (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+Preparing to unpack .../18-libcurl3t64-gnutls_8.14.1-2+deb13u2_amd64.deb ...
+Unpacking libcurl3t64-gnutls:amd64 (8.14.1-2+deb13u2) over (8.14.1-2) ...
+Preparing to unpack .../19-libpq-dev_17.8-0+deb13u1_amd64.deb ...
+Unpacking libpq-dev (17.8-0+deb13u1) over (17.6-0+deb13u1) ...
+Preparing to unpack .../20-libpq5_17.8-0+deb13u1_amd64.deb ...
+Unpacking libpq5:amd64 (17.8-0+deb13u1) over (17.6-0+deb13u1) ...
+Preparing to unpack .../21-openssl_3.5.4-1~deb13u2_amd64.deb ...
+Unpacking openssl (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+Preparing to unpack .../22-sq_1.3.1-2+b2_amd64.deb ...
+Unpacking sq (1.3.1-2+b2) over (1.3.1-2+b1) ...
+Preparing to unpack .../23-x11-common_1%3a7.7+24+deb13u1_all.deb ...
+Unpacking x11-common (1:7.7+24+deb13u1) over (1:7.7+24) ...
+Setting up libgnutls30t64:amd64 (3.8.9-3+deb13u2) ...
+Setting up libgnutls-openssl27t64:amd64 (3.8.9-3+deb13u2) ...
+Setting up libcurl4t64:amd64 (8.14.1-2+deb13u2) ...
+Setting up imagemagick-7-common (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up x11-common (1:7.7+24+deb13u1) ...
+Installing new version of config file /etc/X11/Xsession.d/20x11-common_process-args ...
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+debconf: unable to initialize frontend: Teletype
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Noninteractive
+invoke-rc.d: could not determine current runlevel
+invoke-rc.d: policy-rc.d denied execution of restart.
+Setting up libpq5:amd64 (17.8-0+deb13u1) ...
+Setting up libcurl3t64-gnutls:amd64 (8.14.1-2+deb13u2) ...
+Setting up linux-libc-dev (6.12.73-1) ...
+Setting up libcom-err2:amd64 (1.47.2-3+b7) ...
+Setting up sq (1.3.1-2+b2) ...
+Setting up libglib2.0-0t64:amd64 (2.84.4-3~deb13u2) ...
+No schema files found: doing nothing.
+Setting up libglib2.0-data (2.84.4-3~deb13u2) ...
+Setting up libunbound8:amd64 (1.22.0-2+deb13u1) ...
+Setting up libgnutls-dane0t64:amd64 (3.8.9-3+deb13u2) ...
+Setting up gnupg-l10n (2.4.7-21+deb13u1) ...
+Setting up libssl-dev:amd64 (3.5.4-1~deb13u2) ...
+Setting up libpng16-16t64:amd64 (1.6.48-1+deb13u3) ...
+Setting up gir1.2-glib-2.0:amd64 (2.84.4-3~deb13u2) ...
+Setting up libmagickcore-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up gir1.2-glib-2.0-dev:amd64 (2.84.4-3~deb13u2) ...
+Setting up gpgconf (2.4.7-21+deb13u1+b1) ...
+Setting up curl (8.14.1-2+deb13u2) ...
+Setting up libc-dev-bin (2.41-12+deb13u1) ...
+Setting up openssl (3.5.4-1~deb13u2) ...
+Setting up libxml2:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) ...
+Setting up gpg (2.4.7-21+deb13u1+b1) ...
+Setting up libgio-2.0-dev-bin (2.84.4-3~deb13u2) ...
+Setting up libgio-2.0-dev:amd64 (2.84.4-3~deb13u2) ...
+Setting up gpg-agent (2.4.7-21+deb13u1+b1) ...
+Setting up libgirepository-2.0-0:amd64 (2.84.4-3~deb13u2) ...
+Setting up libmagickcore-7-arch-config:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up gpgsm (2.4.7-21+deb13u1+b1) ...
+Setting up libpng-dev:amd64 (1.6.48-1+deb13u3) ...
+Setting up libglib2.0-bin (2.84.4-3~deb13u2) ...
+Setting up libpq-dev (17.8-0+deb13u1) ...
+Setting up libmagickwand-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up dirmngr (2.4.7-21+deb13u1+b1) ...
+Setting up libxml2-dev:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) ...
+Setting up libcurl4-openssl-dev:amd64 (8.14.1-2+deb13u2) ...
+Setting up libmagickcore-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up gnupg (2.4.7-21+deb13u1) ...
+Setting up libc6-dev:amd64 (2.41-12+deb13u1) ...
+Setting up libgnutls28-dev:amd64 (3.8.9-3+deb13u2) ...
+Setting up girepository-tools:amd64 (2.84.4-3~deb13u2) ...
+Setting up libmagickwand-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up comerr-dev:amd64 (2.1-1.47.2-3+b7) ...
+Setting up libglib2.0-dev-bin (2.84.4-3~deb13u2) ...
+Setting up libmagickcore-7.q16-10-extra:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up imagemagick-7.q16 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up libglib2.0-dev:amd64 (2.84.4-3~deb13u2) ...
+Setting up libmagickcore-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up imagemagick (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up libmagickwand-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up libmagickcore-dev (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Setting up libmagickwand-dev (8:7.1.1.43+dfsg1-1+deb13u5) ...
+Processing triggers for hicolor-icon-theme (0.18-2) ...
+Processing triggers for libc-bin (2.41-12+deb13u1) ...
+Processing triggers for debianutils (5.23.2) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gcc is already the newest version (4:14.2.0-1).
+default-libmysqlclient-dev is already the newest version (1.1.1).
+The following NEW packages will be installed:
+  pkg-config
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 14.0 kB of archives.
+After this operation, 29.7 kB of additional disk space will be used.
+Get:1 http://deb.debian.org/debian trixie/main amd64 pkg-config amd64 1.8.1-4 [14.0 kB]
+[91mdebconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+[0m[91mdebconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+[0m[91mdebconf: unable to initialize frontend: Teletype
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Noninteractive
+[0mFetched 14.0 kB in 0s (873 kB/s)
+Selecting previously unselected package pkg-config:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26762 files and directories currently installed.)
+Preparing to unpack .../pkg-config_1.8.1-4_amd64.deb ...
+Unpacking pkg-config:amd64 (1.8.1-4) ...
+Setting up pkg-config:amd64 (1.8.1-4) ...
+ ---> Removed intermediate container 8c5faae89e77
+ ---> 9a26f801b1df
+Step 5/8 : RUN pip install mysqlclient
+ ---> Running in 0c2f76f1740e
+Collecting mysqlclient
+  Downloading mysqlclient-2.2.7.tar.gz (91 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 91.4/91.4 kB 8.5 MB/s eta 0:00:00
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: mysqlclient
+  Building wheel for mysqlclient (pyproject.toml): started
+  Building wheel for mysqlclient (pyproject.toml): finished with status 'done'
+  Created wheel for mysqlclient: filename=mysqlclient-2.2.7-cp39-cp39-linux_x86_64.whl size=133779 sha256=b974179799fd16947404dacadfb114b5f8b0a0f1eef2656c99a59804abdf8bc4
+  Stored in directory: /root/.cache/pip/wheels/ed/03/da/e61775175405d4b30c644467a6d377a98fd5a5da1bf5364614
+Successfully built mysqlclient
+Installing collected packages: mysqlclient
+Successfully installed mysqlclient-2.2.7
+[91mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[0m[91m
+[notice] A new release of pip is available: 23.0.1 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+[0m ---> Removed intermediate container 0c2f76f1740e
+ ---> abdbe235455d
+Step 6/8 : RUN pip install --no-cache-dir -r requirements.txt
+ ---> Running in 15a9df24e48c
+Collecting asgiref==3.6.0
+  Downloading asgiref-3.6.0-py3-none-any.whl (23 kB)
+Collecting Django==4.1.5
+  Downloading Django-4.1.5-py3-none-any.whl (8.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.1/8.1 MB 174.6 MB/s eta 0:00:00
+Collecting django-cors-headers==3.13.0
+  Downloading django_cors_headers-3.13.0-py3-none-any.whl (13 kB)
+Collecting djangorestframework==3.14.0
+  Downloading djangorestframework-3.14.0-py3-none-any.whl (1.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 263.5 MB/s eta 0:00:00
+Collecting gunicorn==20.1.0
+  Downloading gunicorn-20.1.0-py3-none-any.whl (79 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 79.5/79.5 kB 176.9 MB/s eta 0:00:00
+Collecting pytz==2022.7.1
+  Downloading pytz-2022.7.1-py2.py3-none-any.whl (499 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 499.4/499.4 kB 264.1 MB/s eta 0:00:00
+Collecting sqlparse==0.4.3
+  Downloading sqlparse-0.4.3-py3-none-any.whl (42 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.8/42.8 kB 182.5 MB/s eta 0:00:00
+Collecting tzdata==2022.7
+  Downloading tzdata-2022.7-py2.py3-none-any.whl (340 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 340.1/340.1 kB 259.2 MB/s eta 0:00:00
+Collecting whitenoise==6.3.0
+  Downloading whitenoise-6.3.0-py3-none-any.whl (19 kB)
+Requirement already satisfied: setuptools>=3.0 in /usr/local/lib/python3.9/site-packages (from gunicorn==20.1.0->-r requirements.txt (line 5)) (79.0.1)
+Installing collected packages: pytz, whitenoise, tzdata, sqlparse, gunicorn, asgiref, Django, djangorestframework, django-cors-headers
+Successfully installed Django-4.1.5 asgiref-3.6.0 django-cors-headers-3.13.0 djangorestframework-3.14.0 gunicorn-20.1.0 pytz-2022.7.1 sqlparse-0.4.3 tzdata-2022.7 whitenoise-6.3.0
+[91mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+[0m[91m
+[notice] A new release of pip is available: 23.0.1 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+[0m ---> Removed intermediate container 15a9df24e48c
+ ---> 44edf85dc992
+Step 7/8 : COPY . /app/backend
+ ---> ba0d86419347
+Step 8/8 : EXPOSE 8000
+ ---> Running in b09a7c14d37c
+ ---> Removed intermediate container b09a7c14d37c
+ ---> 087784e6da08
+Successfully built 087784e6da08
+Successfully tagged notes-app:latest
+[8mha:////4K3xq/HVRukq10d43eA2bbXPb0qKIzge23D9DH1bBDu9AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQEeFbpZvgAAAA==[0m[Pipeline] }
+[8mha:////4AXriVtFPJfktYIKAUltXWanqmIPxsFXFhfLc4yKYJooAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7Ny324eW+AAAA[0m[Pipeline] // stage
+[8mha:////4Is7cLAvXugK8Tfbsu2rbl8T4+qkd/5xz1+2aPORjJWuAAAApx+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjJAokREVrueEFJjbGiXUX7AtJxYv4Gn8gEImKrXZWWs3zBWVOcKDkZeOwDZjrILvY+6nJgVJ7iTTIhs6yJswUndRu0GTdcUZN7GCOKGChYOmwjpQDeoaVaszdVNGgr06cpm2voAj2Bg8QajKzSfyFMcH62ttM+PP8FcDYMYgtQ7HZfY7lG9tmeb3BAAAA[0m[Pipeline] stage
+[8mha:////4MCTcibe2b1k1/b8/iqQ0HaIJizLLypYe2wrrhgC9uBxAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUbCDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASnCIIrCAAAA[0m[Pipeline] { (Dockerhub)
+[8mha:////4OZN4F+1x8HLe501q1jytFCJlTtT90hY72c4pUWfGnj0AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICdAilorXc8AKTGOPEugu2g1PxIr7GH7CIRMUWq51t5vWGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYI5e6Qa78dPhmQ9Da+AAAA[0m[Pipeline] echo
+Pushing image to DockerHub
+[8mha:////4NoER6mBmL28zcVYP0ccaYLqWaKVr6IPuJ/mIwKMrtSHAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUOIqWvUhROEJoSk0f8lSUknTsTVuAOBSkx4sGxL1nu+oAoejuQ1swoHg6E3bHSTzokl8sPFUWKWzqwnDOQU61TqSKp2qR1FBYuKElYc1gp7R8GgjrDhVtxF7QTq+hR93g4cSiNv8ICCZ3IUPn7L7GF7nWQg/HH+AmAeI5TNPtuu+TyrNxmFFZbCAAAA[0m[Pipeline] withCredentials
+Masking supported pattern matches of $dockerHubPass
+[8mha:////4NMvSQeHTaoIZkyoZ+ZLTvoqy06IY5GktfBaRm7Wmd5BAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] {
+[8mha:////4BcwWZ4xwbMApLimvj23yienWrFkl+GlKJ107Ls1f51zAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyE0vHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzD5B3baf2vs3w5BRkb4AAAA=[0m[Pipeline] sh
+Warning: A secret was passed to "sh" using Groovy String interpolation, which is insecure.
+		 Affected argument(s) used the following variable(s): [dockerHubPass]
+		 See https://jenkins.io/redirect/groovy-string-interpolation for details.
++ docker login -u aruhehe -p ****
+WARNING! Using --password via the CLI is insecure. Use --password-stdin.
+
+WARNING! Your credentials are stored unencrypted in '/home/ubuntu/.docker/config.json'.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/go/credential-store/
+
+Login Succeeded
+[8mha:////4CitrIxEEYyxNlTw+n9kiqjHhoHAC9TRm5jZuRC5DowPAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNG7GyZWw+AXYIkLJexSodPKL/DX/QbSJk3e4uecu5/mCdQxwpKCZVTgYjJ1h3k26LJYpDFdHmVm6sI4wklNMqCyoV6cFBSUFS6oaVhw2CjtH0aBOsOVW3mXjJOrmnEL5Dhxq04/wgIoXc5IhfWEOsLtNfST8ef4KYPYJ6rb91N6/AQQGEN6+AAAA[0m[Pipeline] sh
++ docker tag notes-app:latest aruhehe/notes-app:latest
+[8mha:////4Isy5WL44o9/L9A5XxGhF8YETvVqJlzMDAhZfmivxHECAAAApB+LCAAAAAAAAP9tjbEOwiAURV9rHFwd/QiaNHEyTq6ExS/AFhFK3qNApZNf5K/5D6JNnLzDzT13Oc8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALNPULftp/b+DUU3C8e+AAAA[0m[Pipeline] sh
++ docker push aruhehe/notes-app:latest
+The push refers to repository [docker.io/aruhehe/notes-app]
+b1ae30f4977c: Preparing
+924f63331f62: Preparing
+698118e51578: Preparing
+654073b0b67d: Preparing
+072d696a8e8e: Preparing
+040def6ff0c4: Preparing
+4e92062d58c4: Preparing
+05c88577d350: Preparing
+0b38a99061e1: Preparing
+713ad1f34d94: Preparing
+c041ff8d6c73: Preparing
+fbde375eafc7: Preparing
+f2522c6ed78b: Preparing
+040def6ff0c4: Waiting
+4e92062d58c4: Waiting
+05c88577d350: Waiting
+0b38a99061e1: Waiting
+713ad1f34d94: Waiting
+c041ff8d6c73: Waiting
+fbde375eafc7: Waiting
+f2522c6ed78b: Waiting
+072d696a8e8e: Pushed
+b1ae30f4977c: Pushed
+698118e51578: Pushed
+4e92062d58c4: Layer already exists
+05c88577d350: Layer already exists
+0b38a99061e1: Layer already exists
+040def6ff0c4: Pushed
+713ad1f34d94: Layer already exists
+c041ff8d6c73: Layer already exists
+fbde375eafc7: Layer already exists
+f2522c6ed78b: Layer already exists
+924f63331f62: Pushed
+654073b0b67d: Pushed
+latest: digest: sha256:7afd42cc4aaaef26c431c5d2d1bd64d5fad299cac501a3704810c392421d4b1e size: 3055
+[8mha:////4BdcL7Imqh3S6izpRvBr5RNhn/E2ZaZw8ZeDUltTohrFAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8LGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DdZseDS+AAAA[0m[Pipeline] }
+[8mha:////4EhzmVIkQAOTUc8IK6x8ingznP6+Vk0IM2NdJYkJ8ksXAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN8nuLWa+AAAA[0m[Pipeline] // withCredentials
+[8mha:////4BYiPRkAA1Gu+WezaY7qC8M9XzIKeLJX4ZnJTauhdIDTAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqEAoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrdPtf28AHth42yvgAAAA==[0m[Pipeline] }
+[8mha:////4NAuj2QquAe/eN00+4C/NYTBxSJxCrS2IBaBRyS4hhFzAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqEAoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrdIdd2/wHeZNYOvgAAAA==[0m[Pipeline] // stage
+[8mha:////4J4SVAzeRakQjVG3tQSJ2XTVUD/Q6RG3nE/d3bS44lXoAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYSDBB2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INn/W1xsEAAAA=[0m[Pipeline] stage
+[8mha:////4Jq7itp3UsE8xYaYEdKi3P4vCPm8XXEy8uNkV6++B4liAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] { (Deploy)
+[8mha:////4AqR0wRBd50slil67v/+p+VkKwjJuvCL8A/FG9H5Uo7rAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfettHKdL4AAAA=[0m[Pipeline] echo
+Deploying container
+[8mha:////4LLq8mkQsKXPkksMhdO3QRxJWSn22TzRXK3wBYJx6xPYAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIilBJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3f9+DRbb4AAAA=[0m[Pipeline] sh
++ docker compose up -d
+time="2026-02-28T21:06:44Z" level=warning msg="/home/ubuntu/workspace/DjangoCICD/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ db Pulling 
+ nginx Pulling 
+ django_app Pulling 
+ django_app Warning pull access denied for django_app, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+ 206356c42440 Pulling fs layer 
+ b47f187216b6 Pulling fs layer 
+ 1ad233904a11 Pulling fs layer 
+ eedda9fd8786 Pulling fs layer 
+ 35ff83c394d6 Pulling fs layer 
+ 17d0911eaf62 Pulling fs layer 
+ df0b66c867e4 Pulling fs layer 
+ eedda9fd8786 Waiting 
+ 35ff83c394d6 Waiting 
+ 17d0911eaf62 Waiting 
+ df0b66c867e4 Waiting 
+ 74a8e4bbd9fe Pulling fs layer 
+ 357926362d31 Pulling fs layer 
+ f3702ac323ca Pulling fs layer 
+ 658630c937c6 Pulling fs layer 
+ ab1b8ea72826 Pulling fs layer 
+ 61941d436e88 Pulling fs layer 
+ c89a19cdad3b Pulling fs layer 
+ 00af5f73db53 Pulling fs layer 
+ 8314ff001dec Pulling fs layer 
+ 4a629f1008ff Pulling fs layer 
+ 74a8e4bbd9fe Waiting 
+ 357926362d31 Waiting 
+ f3702ac323ca Waiting 
+ 658630c937c6 Waiting 
+ ab1b8ea72826 Waiting 
+ 61941d436e88 Waiting 
+ c89a19cdad3b Waiting 
+ 00af5f73db53 Waiting 
+ 8314ff001dec Waiting 
+ 4a629f1008ff Waiting 
+ 1ad233904a11 Downloading [==================================================>]     626B/626B
+ 1ad233904a11 Verifying Checksum 
+ 1ad233904a11 Download complete 
+ b47f187216b6 Downloading [>                                                  ]  343.6kB/33.14MB
+ 206356c42440 Downloading [>                                                  ]  311.3kB/29.78MB
+ 206356c42440 Downloading [==================>                                ]  10.82MB/29.78MB
+ b47f187216b6 Downloading [======================>                            ]  14.75MB/33.14MB
+ 206356c42440 Downloading [==================================>                ]   20.7MB/29.78MB
+ b47f187216b6 Downloading [========================================>          ]  26.72MB/33.14MB
+ b47f187216b6 Verifying Checksum 
+ b47f187216b6 Download complete 
+ 206356c42440 Verifying Checksum 
+ 206356c42440 Download complete 
+ 206356c42440 Extracting [>                                                  ]  327.7kB/29.78MB
+ 206356c42440 Extracting [======>                                            ]  3.932MB/29.78MB
+ 206356c42440 Extracting [============>                                      ]  7.537MB/29.78MB
+ 206356c42440 Extracting [=================>                                 ]  10.16MB/29.78MB
+ 206356c42440 Extracting [====================>                              ]  12.12MB/29.78MB
+ eedda9fd8786 Downloading [==================================================>]     954B/954B
+ eedda9fd8786 Verifying Checksum 
+ eedda9fd8786 Download complete 
+ 206356c42440 Extracting [==========================>                        ]  16.06MB/29.78MB
+ 206356c42440 Extracting [==================================>                ]  20.32MB/29.78MB
+ 206356c42440 Extracting [========================================>          ]  24.25MB/29.78MB
+ 35ff83c394d6 Downloading [==================================================>]     405B/405B
+ 35ff83c394d6 Verifying Checksum 
+ 35ff83c394d6 Download complete 
+ 17d0911eaf62 Downloading [=======================================>           ]     953B/1.209kB
+ 17d0911eaf62 Downloading [==================================================>]  1.209kB/1.209kB
+ 17d0911eaf62 Verifying Checksum 
+ 17d0911eaf62 Download complete 
+ 206356c42440 Extracting [============================================>      ]  26.21MB/29.78MB
+ 206356c42440 Extracting [===============================================>   ]  28.51MB/29.78MB
+ 206356c42440 Extracting [================================================>  ]  29.16MB/29.78MB
+ df0b66c867e4 Downloading [==================================>                ]     953B/1.4kB
+ df0b66c867e4 Downloading [==================================================>]    1.4kB/1.4kB
+ df0b66c867e4 Verifying Checksum 
+ df0b66c867e4 Download complete 
+ 206356c42440 Extracting [==================================================>]  29.78MB/29.78MB
+ 206356c42440 Pull complete 
+ b47f187216b6 Extracting [>                                                  ]  360.4kB/33.14MB
+ b47f187216b6 Extracting [=======>                                           ]  4.686MB/33.14MB
+ 74a8e4bbd9fe Downloading [>                                                  ]  475.1kB/47.31MB
+ b47f187216b6 Extracting [===========>                                       ]   7.93MB/33.14MB
+ 357926362d31 Downloading [==================================================>]     884B/884B
+ 357926362d31 Verifying Checksum 
+ 357926362d31 Download complete 
+ 74a8e4bbd9fe Downloading [==============>                                    ]  13.78MB/47.31MB
+ b47f187216b6 Extracting [===============>                                   ]  10.09MB/33.14MB
+ 74a8e4bbd9fe Downloading [==========================>                        ]  24.75MB/47.31MB
+ b47f187216b6 Extracting [=================>                                 ]  11.89MB/33.14MB
+ 74a8e4bbd9fe Downloading [=====================================>             ]  35.26MB/47.31MB
+ 74a8e4bbd9fe Downloading [=================================================> ]  46.76MB/47.31MB
+ 74a8e4bbd9fe Verifying Checksum 
+ 74a8e4bbd9fe Download complete 
+ b47f187216b6 Extracting [=====================>                             ]  14.06MB/33.14MB
+ 74a8e4bbd9fe Extracting [>                                                  ]  491.5kB/47.31MB
+ b47f187216b6 Extracting [==========================>                        ]  17.66MB/33.14MB
+ 74a8e4bbd9fe Extracting [=>                                                 ]    983kB/47.31MB
+ b47f187216b6 Extracting [================================>                  ]  21.63MB/33.14MB
+ f3702ac323ca Downloading [>                                                  ]  8.214kB/783.6kB
+ f3702ac323ca Downloading [==================================================>]  783.6kB/783.6kB
+ f3702ac323ca Verifying Checksum 
+ f3702ac323ca Download complete 
+ 74a8e4bbd9fe Extracting [===>                                               ]  2.949MB/47.31MB
+ b47f187216b6 Extracting [===================================>               ]  23.79MB/33.14MB
+ 74a8e4bbd9fe Extracting [=====>                                             ]  5.407MB/47.31MB
+ b47f187216b6 Extracting [======================================>            ]  25.59MB/33.14MB
+ 74a8e4bbd9fe Extracting [=======>                                           ]  6.881MB/47.31MB
+ b47f187216b6 Extracting [==========================================>        ]  28.48MB/33.14MB
+ 658630c937c6 Downloading [>                                                  ]  63.22kB/6.171MB
+ b47f187216b6 Extracting [=============================================>     ]  30.28MB/33.14MB
+ 658630c937c6 Downloading [===========================================>       ]  5.405MB/6.171MB
+ 658630c937c6 Verifying Checksum 
+ 658630c937c6 Download complete 
+ 74a8e4bbd9fe Extracting [=======>                                           ]  7.373MB/47.31MB
+ 74a8e4bbd9fe Extracting [==========>                                        ]   9.83MB/47.31MB
+ b47f187216b6 Extracting [==============================================>    ]  30.64MB/33.14MB
+ ab1b8ea72826 Downloading [==================>                                ]     953B/2.603kB
+ ab1b8ea72826 Downloading [==================================================>]  2.603kB/2.603kB
+ ab1b8ea72826 Verifying Checksum 
+ ab1b8ea72826 Download complete 
+ 74a8e4bbd9fe Extracting [============>                                      ]  12.29MB/47.31MB
+ b47f187216b6 Extracting [================================================>  ]  32.44MB/33.14MB
+ 74a8e4bbd9fe Extracting [===============>                                   ]  14.75MB/47.31MB
+ b47f187216b6 Extracting [==================================================>]  33.14MB/33.14MB
+ b47f187216b6 Extracting [==================================================>]  33.14MB/33.14MB
+ 74a8e4bbd9fe Extracting [==================>                                ]  17.69MB/47.31MB
+ 61941d436e88 Downloading [==================================================>]     338B/338B
+ 61941d436e88 Verifying Checksum 
+ 61941d436e88 Download complete 
+ b47f187216b6 Pull complete 
+ 74a8e4bbd9fe Extracting [=====================>                             ]  20.15MB/47.31MB
+ 1ad233904a11 Extracting [==================================================>]     626B/626B
+ 1ad233904a11 Extracting [==================================================>]     626B/626B
+ 1ad233904a11 Pull complete 
+ eedda9fd8786 Extracting [==================================================>]     954B/954B
+ eedda9fd8786 Extracting [==================================================>]     954B/954B
+ eedda9fd8786 Pull complete 
+ 35ff83c394d6 Extracting [==================================================>]     405B/405B
+ 35ff83c394d6 Extracting [==================================================>]     405B/405B
+ 74a8e4bbd9fe Extracting [========================>                          ]   23.1MB/47.31MB
+ 35ff83c394d6 Pull complete 
+ 17d0911eaf62 Extracting [==================================================>]  1.209kB/1.209kB
+ 17d0911eaf62 Extracting [==================================================>]  1.209kB/1.209kB
+ 17d0911eaf62 Pull complete 
+ df0b66c867e4 Extracting [==================================================>]    1.4kB/1.4kB
+ df0b66c867e4 Extracting [==================================================>]    1.4kB/1.4kB
+ df0b66c867e4 Pull complete 
+ 74a8e4bbd9fe Extracting [============================>                      ]  26.54MB/47.31MB
+ nginx Pulled 
+ 74a8e4bbd9fe Extracting [================================>                  ]  30.97MB/47.31MB
+ 74a8e4bbd9fe Extracting [==================================>                ]  32.93MB/47.31MB
+ 00af5f73db53 Downloading [==================================================>]     325B/325B
+ 00af5f73db53 Verifying Checksum 
+ 00af5f73db53 Download complete 
+ 74a8e4bbd9fe Extracting [===========================================>       ]   40.8MB/47.31MB
+ 74a8e4bbd9fe Extracting [=============================================>     ]  42.76MB/47.31MB
+ 8314ff001dec Downloading [>                                                  ]  540.7kB/160.6MB
+ 8314ff001dec Downloading [===>                                               ]  9.687MB/160.6MB
+ c89a19cdad3b Downloading [>                                                  ]  524.3kB/51.45MB
+ 8314ff001dec Downloading [======>                                            ]  20.97MB/160.6MB
+ 8314ff001dec Downloading [=========>                                         ]  31.74MB/160.6MB
+ 74a8e4bbd9fe Extracting [==============================================>    ]  44.24MB/47.31MB
+ 8314ff001dec Downloading [============>                                      ]  40.89MB/160.6MB
+ 74a8e4bbd9fe Extracting [================================================>  ]  45.71MB/47.31MB
+ c89a19cdad3b Downloading [=>                                                 ]  1.049MB/51.45MB
+ 8314ff001dec Downloading [===============>                                   ]  49.99MB/160.6MB
+ 74a8e4bbd9fe Extracting [==================================================>]  47.31MB/47.31MB
+ 74a8e4bbd9fe Pull complete 
+ 8314ff001dec Downloading [==================>                                ]  59.15MB/160.6MB
+ 357926362d31 Extracting [==================================================>]     884B/884B
+ 357926362d31 Extracting [==================================================>]     884B/884B
+ 357926362d31 Pull complete 
+ f3702ac323ca Extracting [==>                                                ]  32.77kB/783.6kB
+ 4a629f1008ff Downloading [========>                                          ]     953B/5.33kB
+ 4a629f1008ff Downloading [==================================================>]   5.33kB/5.33kB
+ 4a629f1008ff Verifying Checksum 
+ 4a629f1008ff Download complete 
+ f3702ac323ca Extracting [==================================================>]  783.6kB/783.6kB
+ f3702ac323ca Extracting [==================================================>]  783.6kB/783.6kB
+ 8314ff001dec Downloading [======================>                            ]  70.96MB/160.6MB
+ f3702ac323ca Pull complete 
+ c89a19cdad3b Downloading [=>                                                 ]  1.573MB/51.45MB
+ 658630c937c6 Extracting [>                                                  ]  65.54kB/6.171MB
+ 8314ff001dec Downloading [=========================>                         ]  83.31MB/160.6MB
+ 658630c937c6 Extracting [=============>                                     ]  1.638MB/6.171MB
+ 8314ff001dec Downloading [==============================>                    ]  98.89MB/160.6MB
+ 658630c937c6 Extracting [======================>                            ]  2.818MB/6.171MB
+ c89a19cdad3b Downloading [==>                                                ]  2.097MB/51.45MB
+ 8314ff001dec Downloading [===================================>               ]    115MB/160.6MB
+ 658630c937c6 Extracting [================================================>  ]  5.964MB/6.171MB
+ 658630c937c6 Extracting [==================================================>]  6.171MB/6.171MB
+ 658630c937c6 Pull complete 
+ ab1b8ea72826 Extracting [==================================================>]  2.603kB/2.603kB
+ ab1b8ea72826 Extracting [==================================================>]  2.603kB/2.603kB
+ 8314ff001dec Downloading [=======================================>           ]  128.5MB/160.6MB
+ ab1b8ea72826 Pull complete 
+ c89a19cdad3b Downloading [==>                                                ]  2.621MB/51.45MB
+ 61941d436e88 Extracting [==================================================>]     338B/338B
+ 61941d436e88 Extracting [==================================================>]     338B/338B
+ 61941d436e88 Pull complete 
+ 8314ff001dec Downloading [===========================================>       ]  139.2MB/160.6MB
+ c89a19cdad3b Downloading [===>                                               ]  3.146MB/51.45MB
+ 8314ff001dec Downloading [===============================================>   ]  153.8MB/160.6MB
+ 8314ff001dec Verifying Checksum 
+ 8314ff001dec Download complete 
+ c89a19cdad3b Downloading [===>                                               ]   3.67MB/51.45MB
+ c89a19cdad3b Downloading [====>                                              ]  4.194MB/51.45MB
+ c89a19cdad3b Downloading [====>                                              ]  4.719MB/51.45MB
+ c89a19cdad3b Downloading [=====>                                             ]  5.243MB/51.45MB
+ c89a19cdad3b Downloading [=====>                                             ]  5.767MB/51.45MB
+ c89a19cdad3b Downloading [======>                                            ]  6.291MB/51.45MB
+ c89a19cdad3b Downloading [======>                                            ]  6.816MB/51.45MB
+ c89a19cdad3b Downloading [=======>                                           ]  7.864MB/51.45MB
+ c89a19cdad3b Downloading [========>                                          ]  8.913MB/51.45MB
+ c89a19cdad3b Downloading [=========>                                         ]  9.961MB/51.45MB
+ c89a19cdad3b Downloading [==========>                                        ]  11.01MB/51.45MB
+ c89a19cdad3b Downloading [===========>                                       ]  12.06MB/51.45MB
+ c89a19cdad3b Downloading [============>                                      ]  13.11MB/51.45MB
+ c89a19cdad3b Downloading [=============>                                     ]  14.16MB/51.45MB
+ c89a19cdad3b Downloading [==============>                                    ]   15.2MB/51.45MB
+ c89a19cdad3b Downloading [================>                                  ]  16.78MB/51.45MB
+ c89a19cdad3b Downloading [=================>                                 ]  18.35MB/51.45MB
+ c89a19cdad3b Downloading [===================>                               ]  19.92MB/51.45MB
+ c89a19cdad3b Downloading [====================>                              ]   21.5MB/51.45MB
+ c89a19cdad3b Downloading [======================>                            ]  23.07MB/51.45MB
+ c89a19cdad3b Downloading [=======================>                           ]  24.64MB/51.45MB
+ c89a19cdad3b Downloading [=========================>                         ]  26.74MB/51.45MB
+ c89a19cdad3b Downloading [============================>                      ]  28.84MB/51.45MB
+ c89a19cdad3b Downloading [==============================>                    ]  30.93MB/51.45MB
+ c89a19cdad3b Downloading [================================>                  ]  33.03MB/51.45MB
+ c89a19cdad3b Downloading [==================================>                ]  35.65MB/51.45MB
+ c89a19cdad3b Downloading [=====================================>             ]  38.27MB/51.45MB
+ c89a19cdad3b Downloading [=======================================>           ]  40.89MB/51.45MB
+ c89a19cdad3b Downloading [==========================================>        ]  43.52MB/51.45MB
+ c89a19cdad3b Downloading [============================================>      ]  46.14MB/51.45MB
+ c89a19cdad3b Downloading [===============================================>   ]  49.28MB/51.45MB
+ c89a19cdad3b Verifying Checksum 
+ c89a19cdad3b Download complete 
+ c89a19cdad3b Extracting [>                                                  ]  524.3kB/51.45MB
+ c89a19cdad3b Extracting [====>                                              ]  4.719MB/51.45MB
+ c89a19cdad3b Extracting [=======>                                           ]  7.864MB/51.45MB
+ c89a19cdad3b Extracting [==========>                                        ]  10.49MB/51.45MB
+ c89a19cdad3b Extracting [=============>                                     ]  14.16MB/51.45MB
+ c89a19cdad3b Extracting [==================>                                ]  18.87MB/51.45MB
+ c89a19cdad3b Extracting [=====================>                             ]  22.54MB/51.45MB
+ c89a19cdad3b Extracting [==========================>                        ]  27.26MB/51.45MB
+ c89a19cdad3b Extracting [==============================>                    ]  31.46MB/51.45MB
+ c89a19cdad3b Extracting [===================================>               ]  36.18MB/51.45MB
+ c89a19cdad3b Extracting [======================================>            ]  39.85MB/51.45MB
+ c89a19cdad3b Extracting [=========================================>         ]  42.47MB/51.45MB
+ c89a19cdad3b Extracting [============================================>      ]  45.61MB/51.45MB
+ c89a19cdad3b Extracting [===============================================>   ]  48.76MB/51.45MB
+ c89a19cdad3b Extracting [==================================================>]  51.45MB/51.45MB
+ c89a19cdad3b Pull complete 
+ 00af5f73db53 Extracting [==================================================>]     325B/325B
+ 00af5f73db53 Extracting [==================================================>]     325B/325B
+ 00af5f73db53 Pull complete 
+ 8314ff001dec Extracting [>                                                  ]  557.1kB/160.6MB
+ 8314ff001dec Extracting [=>                                                 ]  4.456MB/160.6MB
+ 8314ff001dec Extracting [==>                                                ]  8.913MB/160.6MB
+ 8314ff001dec Extracting [===>                                               ]  12.81MB/160.6MB
+ 8314ff001dec Extracting [====>                                              ]   15.6MB/160.6MB
+ 8314ff001dec Extracting [=====>                                             ]  18.94MB/160.6MB
+ 8314ff001dec Extracting [======>                                            ]  22.28MB/160.6MB
+ 8314ff001dec Extracting [=======>                                           ]  23.95MB/160.6MB
+ 8314ff001dec Extracting [=======>                                           ]  25.62MB/160.6MB
+ 8314ff001dec Extracting [========>                                          ]  28.41MB/160.6MB
+ 8314ff001dec Extracting [=========>                                         ]   31.2MB/160.6MB
+ 8314ff001dec Extracting [==========>                                        ]  34.54MB/160.6MB
+ 8314ff001dec Extracting [===========>                                       ]  36.21MB/160.6MB
+ 8314ff001dec Extracting [===========>                                       ]  37.88MB/160.6MB
+ 8314ff001dec Extracting [============>                                      ]  38.99MB/160.6MB
+ 8314ff001dec Extracting [============>                                      ]  39.55MB/160.6MB
+ 8314ff001dec Extracting [============>                                      ]  40.11MB/160.6MB
+ 8314ff001dec Extracting [============>                                      ]  40.67MB/160.6MB
+ 8314ff001dec Extracting [============>                                      ]  41.22MB/160.6MB
+ 8314ff001dec Extracting [=============>                                     ]  41.78MB/160.6MB
+ 8314ff001dec Extracting [=============>                                     ]  42.34MB/160.6MB
+ 8314ff001dec Extracting [=============>                                     ]  42.89MB/160.6MB
+ 8314ff001dec Extracting [=============>                                     ]  43.45MB/160.6MB
+ 8314ff001dec Extracting [=============>                                     ]  44.01MB/160.6MB
+ 8314ff001dec Extracting [=============>                                     ]  44.56MB/160.6MB
+ 8314ff001dec Extracting [==============>                                    ]  45.12MB/160.6MB
+ 8314ff001dec Extracting [==============>                                    ]  45.68MB/160.6MB
+ 8314ff001dec Extracting [==============>                                    ]  46.24MB/160.6MB
+ 8314ff001dec Extracting [==============>                                    ]  46.79MB/160.6MB
+ 8314ff001dec Extracting [==============>                                    ]  47.35MB/160.6MB
+ 8314ff001dec Extracting [==============>                                    ]  47.91MB/160.6MB
+ 8314ff001dec Extracting [===============>                                   ]  48.46MB/160.6MB
+ 8314ff001dec Extracting [===============>                                   ]  49.02MB/160.6MB
+ 8314ff001dec Extracting [===============>                                   ]  49.58MB/160.6MB
+ 8314ff001dec Extracting [===============>                                   ]  50.14MB/160.6MB
+ 8314ff001dec Extracting [===============>                                   ]  50.69MB/160.6MB
+ 8314ff001dec Extracting [===============>                                   ]  51.25MB/160.6MB
+ 8314ff001dec Extracting [================>                                  ]  51.81MB/160.6MB
+ 8314ff001dec Extracting [================>                                  ]  52.36MB/160.6MB
+ 8314ff001dec Extracting [================>                                  ]  52.92MB/160.6MB
+ 8314ff001dec Extracting [================>                                  ]  53.48MB/160.6MB
+ 8314ff001dec Extracting [================>                                  ]  54.03MB/160.6MB
+ 8314ff001dec Extracting [================>                                  ]  54.59MB/160.6MB
+ 8314ff001dec Extracting [=================>                                 ]  55.15MB/160.6MB
+ 8314ff001dec Extracting [=================>                                 ]  55.71MB/160.6MB
+ 8314ff001dec Extracting [=================>                                 ]  57.38MB/160.6MB
+ 8314ff001dec Extracting [==================>                                ]  59.05MB/160.6MB
+ 8314ff001dec Extracting [==================>                                ]  60.72MB/160.6MB
+ 8314ff001dec Extracting [===================>                               ]   63.5MB/160.6MB
+ 8314ff001dec Extracting [====================>                              ]  66.85MB/160.6MB
+ 8314ff001dec Extracting [======================>                            ]  71.86MB/160.6MB
+ 8314ff001dec Extracting [=======================>                           ]  75.76MB/160.6MB
+ 8314ff001dec Extracting [========================>                          ]  78.54MB/160.6MB
+ 8314ff001dec Extracting [=========================>                         ]  82.44MB/160.6MB
+ 8314ff001dec Extracting [==========================>                        ]  86.34MB/160.6MB
+ 8314ff001dec Extracting [============================>                      ]  90.24MB/160.6MB
+ 8314ff001dec Extracting [=============================>                     ]  94.14MB/160.6MB
+ 8314ff001dec Extracting [==============================>                    ]  98.04MB/160.6MB
+ 8314ff001dec Extracting [===============================>                   ]  101.4MB/160.6MB
+ 8314ff001dec Extracting [================================>                  ]  104.2MB/160.6MB
+ 8314ff001dec Extracting [=================================>                 ]  108.6MB/160.6MB
+ 8314ff001dec Extracting [===================================>               ]  114.2MB/160.6MB
+ 8314ff001dec Extracting [=====================================>             ]  119.2MB/160.6MB
+ 8314ff001dec Extracting [======================================>            ]  124.2MB/160.6MB
+ 8314ff001dec Extracting [========================================>          ]  129.8MB/160.6MB
+ 8314ff001dec Extracting [=========================================>         ]  133.1MB/160.6MB
+ 8314ff001dec Extracting [==========================================>        ]  135.9MB/160.6MB
+ 8314ff001dec Extracting [==========================================>        ]  137.6MB/160.6MB
+ 8314ff001dec Extracting [===========================================>       ]  139.3MB/160.6MB
+ 8314ff001dec Extracting [============================================>      ]    142MB/160.6MB
+ 8314ff001dec Extracting [============================================>      ]  143.2MB/160.6MB
+ 8314ff001dec Extracting [=============================================>     ]  144.8MB/160.6MB
+ 8314ff001dec Extracting [=============================================>     ]  146.5MB/160.6MB
+ 8314ff001dec Extracting [==============================================>    ]  148.2MB/160.6MB
+ 8314ff001dec Extracting [==============================================>    ]  148.7MB/160.6MB
+ 8314ff001dec Extracting [===============================================>   ]  151.5MB/160.6MB
+ 8314ff001dec Extracting [================================================>  ]  154.9MB/160.6MB
+ 8314ff001dec Extracting [=================================================> ]  158.2MB/160.6MB
+ 8314ff001dec Extracting [==================================================>]  160.6MB/160.6MB
+ 8314ff001dec Pull complete 
+ 4a629f1008ff Extracting [==================================================>]   5.33kB/5.33kB
+ 4a629f1008ff Extracting [==================================================>]   5.33kB/5.33kB
+ 4a629f1008ff Pull complete 
+ db Pulled 
+time="2026-02-28T21:07:11Z" level=warning msg="Docker Compose is configured to build using Bake, but buildx isn't installed"
+#0 building with "default" instance using docker driver
+
+#1 [django_app internal] load build definition from Dockerfile
+#1 transferring dockerfile: 476B done
+#1 DONE 0.1s
+
+#2 [django_app internal] load metadata for docker.io/library/python:3.9
+#2 DONE 0.0s
+
+#3 [django_app internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [django_app internal] load build context
+#4 transferring context: 8.18MB 0.2s done
+#4 DONE 0.3s
+
+#5 [django_app 1/7] FROM docker.io/library/python:3.9
+#5 DONE 0.2s
+
+#6 [django_app 2/7] WORKDIR /app/backend
+#6 DONE 0.2s
+
+#7 [django_app 3/7] COPY requirements.txt /app/backend
+#7 DONE 0.0s
+
+#8 [django_app 4/7] RUN apt-get update     && apt-get upgrade -y     && apt-get install -y gcc default-libmysqlclient-dev pkg-config     && rm -rf /var/lib/apt/lists/*
+#8 0.308 Get:1 http://deb.debian.org/debian trixie InRelease [140 kB]
+#8 0.324 Get:2 http://deb.debian.org/debian trixie-updates InRelease [47.3 kB]
+#8 0.325 Get:3 http://deb.debian.org/debian-security trixie-security InRelease [43.4 kB]
+#8 0.375 Get:4 http://deb.debian.org/debian trixie/main amd64 Packages [9670 kB]
+#8 0.488 Get:5 http://deb.debian.org/debian trixie-updates/main amd64 Packages [5412 B]
+#8 0.489 Get:6 http://deb.debian.org/debian-security trixie-security/main amd64 Packages [113 kB]
+#8 1.436 Fetched 10.0 MB in 1s (8813 kB/s)
+#8 1.436 Reading package lists...
+#8 2.199 Reading package lists...
+#8 2.928 Building dependency tree...
+#8 3.124 Reading state information...
+#8 3.218 Calculating upgrade...
+#8 3.780 The following packages will be upgraded:
+#8 3.781   base-files bash comerr-dev curl dirmngr gir1.2-glib-2.0 gir1.2-glib-2.0-dev
+#8 3.781   girepository-tools gnupg gnupg-l10n gpg gpg-agent gpgconf gpgsm imagemagick
+#8 3.781   imagemagick-7-common imagemagick-7.q16 libc-bin libc-dev-bin libc6 libc6-dev
+#8 3.781   libcap2 libcom-err2 libcurl3t64-gnutls libcurl4-openssl-dev libcurl4t64
+#8 3.781   libgio-2.0-dev libgio-2.0-dev-bin libgirepository-2.0-0 libglib2.0-0t64
+#8 3.781   libglib2.0-bin libglib2.0-data libglib2.0-dev libglib2.0-dev-bin
+#8 3.782   libgnutls-dane0t64 libgnutls-openssl27t64 libgnutls28-dev libgnutls30t64
+#8 3.782   libmagickcore-7-arch-config libmagickcore-7-headers libmagickcore-7.q16-10
+#8 3.782   libmagickcore-7.q16-10-extra libmagickcore-7.q16-dev libmagickcore-dev
+#8 3.782   libmagickwand-7-headers libmagickwand-7.q16-10 libmagickwand-7.q16-dev
+#8 3.783   libmagickwand-dev libpng-dev libpng16-16t64 libpq-dev libpq5 libssl-dev
+#8 3.783   libssl3t64 libsystemd0 libudev1 libunbound8 libxml2 libxml2-dev
+#8 3.784   linux-libc-dev openssl openssl-provider-legacy sq sqv x11-common
+#8 3.822 65 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+#8 3.822 Need to get 46.6 MB of archives.
+#8 3.822 After this operation, 157 kB of additional disk space will be used.
+#8 3.822 Get:1 http://deb.debian.org/debian trixie/main amd64 libc6-dev amd64 2.41-12+deb13u1 [1994 kB]
+#8 3.840 Get:2 http://deb.debian.org/debian trixie/main amd64 libc-dev-bin amd64 2.41-12+deb13u1 [58.5 kB]
+#8 3.843 Get:3 http://deb.debian.org/debian-security trixie-security/main amd64 linux-libc-dev all 6.12.73-1 [2745 kB]
+#8 3.863 Get:4 http://deb.debian.org/debian trixie/main amd64 libc6 amd64 2.41-12+deb13u1 [2851 kB]
+#8 3.887 Get:5 http://deb.debian.org/debian trixie/main amd64 base-files amd64 13.8+deb13u3 [73.3 kB]
+#8 3.888 Get:6 http://deb.debian.org/debian trixie/main amd64 bash amd64 5.2.37-2+b7 [1501 kB]
+#8 3.901 Get:7 http://deb.debian.org/debian trixie/main amd64 libc-bin amd64 2.41-12+deb13u1 [637 kB]
+#8 3.905 Get:8 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-7.q16-dev amd64 8:7.1.1.43+dfsg1-1+deb13u5 [355 kB]
+#8 3.907 Get:9 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-dev all 8:7.1.1.43+dfsg1-1+deb13u5 [1144 B]
+#8 3.909 Get:10 http://deb.debian.org/debian-security trixie-security/main amd64 libpng-dev amd64 1.6.48-1+deb13u3 [367 kB]
+#8 3.910 Get:11 http://deb.debian.org/debian-security trixie-security/main amd64 libpng16-16t64 amd64 1.6.48-1+deb13u3 [283 kB]
+#8 3.912 Get:12 http://deb.debian.org/debian trixie/main amd64 libxml2-dev amd64 2.12.7+dfsg+really2.9.14-2.1+deb13u2 [794 kB]
+#8 3.919 Get:13 http://deb.debian.org/debian trixie/main amd64 libxml2 amd64 2.12.7+dfsg+really2.9.14-2.1+deb13u2 [698 kB]
+#8 3.923 Get:14 http://deb.debian.org/debian-security trixie-security/main amd64 imagemagick-7.q16 amd64 8:7.1.1.43+dfsg1-1+deb13u5 [729 kB]
+#8 3.927 Get:15 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7.q16-dev amd64 8:7.1.1.43+dfsg1-1+deb13u5 [1109 kB]
+#8 3.933 Get:16 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7.q16-10 amd64 8:7.1.1.43+dfsg1-1+deb13u5 [1848 kB]
+#8 3.941 Get:17 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-7.q16-10 amd64 8:7.1.1.43+dfsg1-1+deb13u5 [344 kB]
+#8 3.943 Get:18 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-dev all 8:7.1.1.43+dfsg1-1+deb13u5 [1160 B]
+#8 3.943 Get:19 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7-arch-config amd64 8:7.1.1.43+dfsg1-1+deb13u5 [30.5 kB]
+#8 3.944 Get:20 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickwand-7-headers all 8:7.1.1.43+dfsg1-1+deb13u5 [9868 B]
+#8 3.945 Get:21 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7-headers all 8:7.1.1.43+dfsg1-1+deb13u5 [50.4 kB]
+#8 3.945 Get:22 http://deb.debian.org/debian-security trixie-security/main amd64 imagemagick-7-common all 8:7.1.1.43+dfsg1-1+deb13u5 [70.2 kB]
+#8 3.946 Get:23 http://deb.debian.org/debian trixie/main amd64 gir1.2-glib-2.0-dev amd64 2.84.4-3~deb13u2 [917 kB]
+#8 3.952 Get:24 http://deb.debian.org/debian trixie/main amd64 gir1.2-glib-2.0 amd64 2.84.4-3~deb13u2 [199 kB]
+#8 3.955 Get:25 http://deb.debian.org/debian trixie/main amd64 girepository-tools amd64 2.84.4-3~deb13u2 [151 kB]
+#8 3.958 Get:26 http://deb.debian.org/debian trixie/main amd64 libglib2.0-dev-bin amd64 2.84.4-3~deb13u2 [55.3 kB]
+#8 3.959 Get:27 http://deb.debian.org/debian trixie/main amd64 libgio-2.0-dev-bin amd64 2.84.4-3~deb13u2 [167 kB]
+#8 3.963 Get:28 http://deb.debian.org/debian trixie/main amd64 libglib2.0-dev amd64 2.84.4-3~deb13u2 [56.1 kB]
+#8 3.965 Get:29 http://deb.debian.org/debian trixie/main amd64 libgio-2.0-dev amd64 2.84.4-3~deb13u2 [1689 kB]
+#8 3.985 Get:30 http://deb.debian.org/debian trixie/main amd64 libgirepository-2.0-0 amd64 2.84.4-3~deb13u2 [144 kB]
+#8 3.989 Get:31 http://deb.debian.org/debian trixie/main amd64 libglib2.0-data all 2.84.4-3~deb13u2 [1286 kB]
+#8 3.998 Get:32 http://deb.debian.org/debian trixie/main amd64 libglib2.0-bin amd64 2.84.4-3~deb13u2 [131 kB]
+#8 4.000 Get:33 http://deb.debian.org/debian trixie/main amd64 libglib2.0-0t64 amd64 2.84.4-3~deb13u2 [1518 kB]
+#8 4.011 Get:34 http://deb.debian.org/debian-security trixie-security/main amd64 libmagickcore-7.q16-10-extra amd64 8:7.1.1.43+dfsg1-1+deb13u5 [75.2 kB]
+#8 4.011 Get:35 http://deb.debian.org/debian trixie/main amd64 libcap2 amd64 1:2.75-10+b3 [28.8 kB]
+#8 4.012 Get:36 http://deb.debian.org/debian-security trixie-security/main amd64 libssl-dev amd64 3.5.4-1~deb13u2 [2958 kB]
+#8 4.030 Get:37 http://deb.debian.org/debian-security trixie-security/main amd64 openssl-provider-legacy amd64 3.5.4-1~deb13u2 [308 kB]
+#8 4.033 Get:38 http://deb.debian.org/debian-security trixie-security/main amd64 libssl3t64 amd64 3.5.4-1~deb13u2 [2442 kB]
+#8 4.045 Get:39 http://deb.debian.org/debian trixie/main amd64 libsystemd0 amd64 257.9-1~deb13u1 [453 kB]
+#8 4.048 Get:40 http://deb.debian.org/debian trixie/main amd64 libudev1 amd64 257.9-1~deb13u1 [152 kB]
+#8 4.049 Get:41 http://deb.debian.org/debian trixie/main amd64 sqv amd64 1.3.0-3+b2 [661 kB]
+#8 4.054 Get:42 http://deb.debian.org/debian trixie/main amd64 comerr-dev amd64 2.1-1.47.2-3+b7 [56.7 kB]
+#8 4.056 Get:43 http://deb.debian.org/debian trixie/main amd64 libcom-err2 amd64 1.47.2-3+b7 [25.0 kB]
+#8 4.057 Get:44 http://deb.debian.org/debian trixie/main amd64 libcurl4-openssl-dev amd64 8.14.1-2+deb13u2 [511 kB]
+#8 4.060 Get:45 http://deb.debian.org/debian trixie/main amd64 curl amd64 8.14.1-2+deb13u2 [270 kB]
+#8 4.061 Get:46 http://deb.debian.org/debian trixie/main amd64 libcurl4t64 amd64 8.14.1-2+deb13u2 [391 kB]
+#8 4.064 Get:47 http://deb.debian.org/debian trixie/main amd64 gpgsm amd64 2.4.7-21+deb13u1+b1 [275 kB]
+#8 4.067 Get:48 http://deb.debian.org/debian trixie/main amd64 gpg amd64 2.4.7-21+deb13u1+b1 [634 kB]
+#8 4.072 Get:49 http://deb.debian.org/debian trixie/main amd64 dirmngr amd64 2.4.7-21+deb13u1+b1 [384 kB]
+#8 4.074 Get:50 http://deb.debian.org/debian trixie/main amd64 gnupg all 2.4.7-21+deb13u1 [417 kB]
+#8 4.078 Get:51 http://deb.debian.org/debian trixie/main amd64 gpgconf amd64 2.4.7-21+deb13u1+b1 [129 kB]
+#8 4.079 Get:52 http://deb.debian.org/debian trixie/main amd64 gpg-agent amd64 2.4.7-21+deb13u1+b1 [271 kB]
+#8 4.081 Get:53 http://deb.debian.org/debian trixie/main amd64 gnupg-l10n all 2.4.7-21+deb13u1 [749 kB]
+#8 4.086 Get:54 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls28-dev amd64 3.8.9-3+deb13u2 [1409 kB]
+#8 4.093 Get:55 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls-openssl27t64 amd64 3.8.9-3+deb13u2 [455 kB]
+#8 4.096 Get:56 http://deb.debian.org/debian trixie/main amd64 libunbound8 amd64 1.22.0-2+deb13u1 [598 kB]
+#8 4.100 Get:57 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls-dane0t64 amd64 3.8.9-3+deb13u2 [455 kB]
+#8 4.102 Get:58 http://deb.debian.org/debian-security trixie-security/main amd64 libgnutls30t64 amd64 3.8.9-3+deb13u2 [1468 kB]
+#8 4.111 Get:59 http://deb.debian.org/debian-security trixie-security/main amd64 imagemagick amd64 8:7.1.1.43+dfsg1-1+deb13u5 [22.8 kB]
+#8 4.111 Get:60 http://deb.debian.org/debian trixie/main amd64 libcurl3t64-gnutls amd64 8.14.1-2+deb13u2 [383 kB]
+#8 4.114 Get:61 http://deb.debian.org/debian-security trixie-security/main amd64 libpq-dev amd64 17.8-0+deb13u1 [152 kB]
+#8 4.115 Get:62 http://deb.debian.org/debian-security trixie-security/main amd64 libpq5 amd64 17.8-0+deb13u1 [228 kB]
+#8 4.116 Get:63 http://deb.debian.org/debian-security trixie-security/main amd64 openssl amd64 3.5.4-1~deb13u2 [1495 kB]
+#8 4.124 Get:64 http://deb.debian.org/debian trixie/main amd64 sq amd64 1.3.1-2+b2 [5653 kB]
+#8 4.162 Get:65 http://deb.debian.org/debian trixie/main amd64 x11-common all 1:7.7+24+deb13u1 [217 kB]
+#8 4.471 debconf: unable to initialize frontend: Dialog
+#8 4.471 debconf: (TERM is not set, so the dialog frontend is not usable.)
+#8 4.471 debconf: falling back to frontend: Readline
+#8 4.482 debconf: unable to initialize frontend: Readline
+#8 4.482 debconf: (This frontend requires a controlling tty.)
+#8 4.482 debconf: falling back to frontend: Teletype
+#8 4.487 debconf: unable to initialize frontend: Teletype
+#8 4.487 debconf: (This frontend requires a controlling tty.)
+#8 4.488 debconf: falling back to frontend: Noninteractive
+#8 6.692 Preconfiguring packages ...
+#8 6.777 Fetched 46.6 MB in 0s (130 MB/s)
+#8 6.823 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 6.949 Preparing to unpack .../libc6-dev_2.41-12+deb13u1_amd64.deb ...
+#8 6.966 Unpacking libc6-dev:amd64 (2.41-12+deb13u1) over (2.41-12) ...
+#8 9.338 Preparing to unpack .../libc-dev-bin_2.41-12+deb13u1_amd64.deb ...
+#8 9.354 Unpacking libc-dev-bin (2.41-12+deb13u1) over (2.41-12) ...
+#8 9.435 Preparing to unpack .../linux-libc-dev_6.12.73-1_all.deb ...
+#8 9.451 Unpacking linux-libc-dev (6.12.73-1) over (6.12.48-1) ...
+#8 16.44 Preparing to unpack .../libc6_2.41-12+deb13u1_amd64.deb ...
+#8 16.55 debconf: unable to initialize frontend: Dialog
+#8 16.55 debconf: (TERM is not set, so the dialog frontend is not usable.)
+#8 16.55 debconf: falling back to frontend: Readline
+#8 16.56 debconf: unable to initialize frontend: Readline
+#8 16.56 debconf: (This frontend requires a controlling tty.)
+#8 16.56 debconf: falling back to frontend: Teletype
+#8 16.56 debconf: unable to initialize frontend: Teletype
+#8 16.56 debconf: (This frontend requires a controlling tty.)
+#8 16.56 debconf: falling back to frontend: Noninteractive
+#8 16.63 Unpacking libc6:amd64 (2.41-12+deb13u1) over (2.41-12) ...
+#8 18.10 Setting up libc6:amd64 (2.41-12+deb13u1) ...
+#8 18.20 debconf: unable to initialize frontend: Dialog
+#8 18.20 debconf: (TERM is not set, so the dialog frontend is not usable.)
+#8 18.20 debconf: falling back to frontend: Readline
+#8 18.21 debconf: unable to initialize frontend: Readline
+#8 18.21 debconf: (This frontend requires a controlling tty.)
+#8 18.21 debconf: falling back to frontend: Teletype
+#8 18.21 debconf: unable to initialize frontend: Teletype
+#8 18.21 debconf: (This frontend requires a controlling tty.)
+#8 18.21 debconf: falling back to frontend: Noninteractive
+#8 18.31 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 18.33 Preparing to unpack .../base-files_13.8+deb13u3_amd64.deb ...
+#8 18.38 Unpacking base-files (13.8+deb13u3) over (13.8+deb13u1) ...
+#8 18.59 Setting up base-files (13.8+deb13u3) ...
+#8 18.59 Installing new version of config file /etc/debian_version ...
+#8 18.72 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 18.74 Preparing to unpack .../bash_5.2.37-2+b7_amd64.deb ...
+#8 18.78 Unpacking bash (5.2.37-2+b7) over (5.2.37-2+b5) ...
+#8 19.48 Setting up bash (5.2.37-2+b7) ...
+#8 19.53 update-alternatives: using /usr/share/man/man7/bash-builtins.7.gz to provide /usr/share/man/man7/builtins.7.gz (builtins.7.gz) in auto mode
+#8 19.58 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 19.60 Preparing to unpack .../libc-bin_2.41-12+deb13u1_amd64.deb ...
+#8 19.62 Unpacking libc-bin (2.41-12+deb13u1) over (2.41-12) ...
+#8 19.87 Setting up libc-bin (2.41-12+deb13u1) ...
+#8 20.35 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 20.37 Preparing to unpack .../00-libmagickwand-7.q16-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 20.38 Unpacking libmagickwand-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 20.50 Preparing to unpack .../01-libmagickwand-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+#8 20.52 Unpacking libmagickwand-dev (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 20.56 Preparing to unpack .../02-libpng-dev_1.6.48-1+deb13u3_amd64.deb ...
+#8 20.58 Unpacking libpng-dev:amd64 (1.6.48-1+deb13u3) over (1.6.48-1) ...
+#8 20.78 Preparing to unpack .../03-libpng16-16t64_1.6.48-1+deb13u3_amd64.deb ...
+#8 20.81 Unpacking libpng16-16t64:amd64 (1.6.48-1+deb13u3) over (1.6.48-1) ...
+#8 20.92 Preparing to unpack .../04-libxml2-dev_2.12.7+dfsg+really2.9.14-2.1+deb13u2_amd64.deb ...
+#8 20.94 Unpacking libxml2-dev:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) over (2.12.7+dfsg+really2.9.14-2.1+deb13u1) ...
+#8 21.31 Preparing to unpack .../05-libxml2_2.12.7+dfsg+really2.9.14-2.1+deb13u2_amd64.deb ...
+#8 21.33 Unpacking libxml2:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) over (2.12.7+dfsg+really2.9.14-2.1+deb13u1) ...
+#8 21.47 Preparing to unpack .../06-imagemagick-7.q16_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 21.49 Unpacking imagemagick-7.q16 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 21.76 Preparing to unpack .../07-libmagickcore-7.q16-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 21.78 Unpacking libmagickcore-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 21.96 Preparing to unpack .../08-libmagickcore-7.q16-10_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 21.98 Unpacking libmagickcore-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 23.25 Preparing to unpack .../09-libmagickwand-7.q16-10_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 23.27 Unpacking libmagickwand-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 23.35 Preparing to unpack .../10-libmagickcore-dev_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+#8 23.37 Unpacking libmagickcore-dev (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 23.42 Preparing to unpack .../11-libmagickcore-7-arch-config_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 23.44 Unpacking libmagickcore-7-arch-config:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 23.50 Preparing to unpack .../12-libmagickwand-7-headers_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+#8 23.52 Unpacking libmagickwand-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 23.67 Preparing to unpack .../13-libmagickcore-7-headers_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+#8 23.68 Unpacking libmagickcore-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 24.19 Preparing to unpack .../14-imagemagick-7-common_8%3a7.1.1.43+dfsg1-1+deb13u5_all.deb ...
+#8 24.21 Unpacking imagemagick-7-common (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 24.34 Preparing to unpack .../15-gir1.2-glib-2.0-dev_2.84.4-3~deb13u2_amd64.deb ...
+#8 24.35 Unpacking gir1.2-glib-2.0-dev:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 24.59 Preparing to unpack .../16-gir1.2-glib-2.0_2.84.4-3~deb13u2_amd64.deb ...
+#8 24.61 Unpacking gir1.2-glib-2.0:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 24.71 Preparing to unpack .../17-girepository-tools_2.84.4-3~deb13u2_amd64.deb ...
+#8 24.73 Unpacking girepository-tools:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 24.85 Preparing to unpack .../18-libglib2.0-dev-bin_2.84.4-3~deb13u2_amd64.deb ...
+#8 24.87 Unpacking libglib2.0-dev-bin (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 24.93 Preparing to unpack .../19-libgio-2.0-dev-bin_2.84.4-3~deb13u2_amd64.deb ...
+#8 25.09 Unpacking libgio-2.0-dev-bin (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 25.30 Preparing to unpack .../20-libglib2.0-dev_2.84.4-3~deb13u2_amd64.deb ...
+#8 25.32 Unpacking libglib2.0-dev:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 25.40 Preparing to unpack .../21-libgio-2.0-dev_2.84.4-3~deb13u2_amd64.deb ...
+#8 25.42 Unpacking libgio-2.0-dev:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 26.97 Preparing to unpack .../22-libgirepository-2.0-0_2.84.4-3~deb13u2_amd64.deb ...
+#8 26.99 Unpacking libgirepository-2.0-0:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 27.06 Preparing to unpack .../23-libglib2.0-data_2.84.4-3~deb13u2_all.deb ...
+#8 27.08 Unpacking libglib2.0-data (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 28.09 Preparing to unpack .../24-libglib2.0-bin_2.84.4-3~deb13u2_amd64.deb ...
+#8 28.10 Unpacking libglib2.0-bin (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 28.27 Preparing to unpack .../25-libglib2.0-0t64_2.84.4-3~deb13u2_amd64.deb ...
+#8 28.29 Unpacking libglib2.0-0t64:amd64 (2.84.4-3~deb13u2) over (2.84.4-3~deb13u1) ...
+#8 28.49 Preparing to unpack .../26-libmagickcore-7.q16-10-extra_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 28.51 Unpacking libmagickcore-7.q16-10-extra:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 28.63 Preparing to unpack .../27-libcap2_1%3a2.75-10+b3_amd64.deb ...
+#8 28.65 Unpacking libcap2:amd64 (1:2.75-10+b3) over (1:2.75-10+b1) ...
+#8 28.75 Setting up libcap2:amd64 (1:2.75-10+b3) ...
+#8 28.80 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 28.83 Preparing to unpack .../libssl-dev_3.5.4-1~deb13u2_amd64.deb ...
+#8 28.84 Unpacking libssl-dev:amd64 (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+#8 29.75 Preparing to unpack .../openssl-provider-legacy_3.5.4-1~deb13u2_amd64.deb ...
+#8 29.76 Unpacking openssl-provider-legacy (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+#8 29.85 Setting up openssl-provider-legacy (3.5.4-1~deb13u2) ...
+#8 29.92 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 29.93 Preparing to unpack .../libssl3t64_3.5.4-1~deb13u2_amd64.deb ...
+#8 29.95 Unpacking libssl3t64:amd64 (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+#8 30.19 Setting up libssl3t64:amd64 (3.5.4-1~deb13u2) ...
+#8 30.26 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 30.28 Preparing to unpack .../libsystemd0_257.9-1~deb13u1_amd64.deb ...
+#8 30.29 Unpacking libsystemd0:amd64 (257.9-1~deb13u1) over (257.8-1~deb13u2) ...
+#8 30.42 Setting up libsystemd0:amd64 (257.9-1~deb13u1) ...
+#8 30.48 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 30.50 Preparing to unpack .../libudev1_257.9-1~deb13u1_amd64.deb ...
+#8 30.52 Unpacking libudev1:amd64 (257.9-1~deb13u1) over (257.8-1~deb13u2) ...
+#8 30.60 Setting up libudev1:amd64 (257.9-1~deb13u1) ...
+#8 30.66 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26761 files and directories currently installed.)
+#8 30.68 Preparing to unpack .../sqv_1.3.0-3+b2_amd64.deb ...
+#8 30.70 Unpacking sqv (1.3.0-3+b2) over (1.3.0-3) ...
+#8 30.85 Setting up sqv (1.3.0-3+b2) ...
+#8 30.91 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26762 files and directories currently installed.)
+#8 30.93 Preparing to unpack .../00-comerr-dev_2.1-1.47.2-3+b7_amd64.deb ...
+#8 30.95 Unpacking comerr-dev:amd64 (2.1-1.47.2-3+b7) over (2.1-1.47.2-3+b3) ...
+#8 31.12 Preparing to unpack .../01-libcom-err2_1.47.2-3+b7_amd64.deb ...
+#8 31.14 Unpacking libcom-err2:amd64 (1.47.2-3+b7) over (1.47.2-3+b3) ...
+#8 31.21 Preparing to unpack .../02-libcurl4-openssl-dev_8.14.1-2+deb13u2_amd64.deb ...
+#8 31.23 Unpacking libcurl4-openssl-dev:amd64 (8.14.1-2+deb13u2) over (8.14.1-2) ...
+#8 31.40 Preparing to unpack .../03-curl_8.14.1-2+deb13u2_amd64.deb ...
+#8 31.41 Unpacking curl (8.14.1-2+deb13u2) over (8.14.1-2) ...
+#8 31.54 Preparing to unpack .../04-libcurl4t64_8.14.1-2+deb13u2_amd64.deb ...
+#8 31.55 Unpacking libcurl4t64:amd64 (8.14.1-2+deb13u2) over (8.14.1-2) ...
+#8 31.65 Preparing to unpack .../05-gpgsm_2.4.7-21+deb13u1+b1_amd64.deb ...
+#8 31.66 Unpacking gpgsm (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+#8 31.76 Preparing to unpack .../06-gpg_2.4.7-21+deb13u1+b1_amd64.deb ...
+#8 31.78 Unpacking gpg (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+#8 31.95 Preparing to unpack .../07-dirmngr_2.4.7-21+deb13u1+b1_amd64.deb ...
+#8 32.01 Unpacking dirmngr (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+#8 32.17 Preparing to unpack .../08-gnupg_2.4.7-21+deb13u1_all.deb ...
+#8 32.19 Unpacking gnupg (2.4.7-21+deb13u1) over (2.4.7-21) ...
+#8 32.38 Preparing to unpack .../09-gpgconf_2.4.7-21+deb13u1+b1_amd64.deb ...
+#8 32.40 Unpacking gpgconf (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+#8 32.52 Preparing to unpack .../10-gpg-agent_2.4.7-21+deb13u1+b1_amd64.deb ...
+#8 32.54 Unpacking gpg-agent (2.4.7-21+deb13u1+b1) over (2.4.7-21+b3) ...
+#8 32.71 Preparing to unpack .../11-gnupg-l10n_2.4.7-21+deb13u1_all.deb ...
+#8 32.73 Unpacking gnupg-l10n (2.4.7-21+deb13u1) over (2.4.7-21) ...
+#8 33.14 Preparing to unpack .../12-libgnutls28-dev_3.8.9-3+deb13u2_amd64.deb ...
+#8 33.15 Unpacking libgnutls28-dev:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+#8 33.41 Preparing to unpack .../13-libgnutls-openssl27t64_3.8.9-3+deb13u2_amd64.deb ...
+#8 33.42 Unpacking libgnutls-openssl27t64:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+#8 33.51 Preparing to unpack .../14-libunbound8_1.22.0-2+deb13u1_amd64.deb ...
+#8 33.53 Unpacking libunbound8:amd64 (1.22.0-2+deb13u1) over (1.22.0-2) ...
+#8 33.64 Preparing to unpack .../15-libgnutls-dane0t64_3.8.9-3+deb13u2_amd64.deb ...
+#8 33.66 Unpacking libgnutls-dane0t64:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+#8 33.75 Preparing to unpack .../16-libgnutls30t64_3.8.9-3+deb13u2_amd64.deb ...
+#8 33.76 Unpacking libgnutls30t64:amd64 (3.8.9-3+deb13u2) over (3.8.9-3) ...
+#8 34.01 Preparing to unpack .../17-imagemagick_8%3a7.1.1.43+dfsg1-1+deb13u5_amd64.deb ...
+#8 34.03 Unpacking imagemagick (8:7.1.1.43+dfsg1-1+deb13u5) over (8:7.1.1.43+dfsg1-1+deb13u2) ...
+#8 34.09 Preparing to unpack .../18-libcurl3t64-gnutls_8.14.1-2+deb13u2_amd64.deb ...
+#8 34.11 Unpacking libcurl3t64-gnutls:amd64 (8.14.1-2+deb13u2) over (8.14.1-2) ...
+#8 34.21 Preparing to unpack .../19-libpq-dev_17.8-0+deb13u1_amd64.deb ...
+#8 34.23 Unpacking libpq-dev (17.8-0+deb13u1) over (17.6-0+deb13u1) ...
+#8 34.40 Preparing to unpack .../20-libpq5_17.8-0+deb13u1_amd64.deb ...
+#8 34.41 Unpacking libpq5:amd64 (17.8-0+deb13u1) over (17.6-0+deb13u1) ...
+#8 34.58 Preparing to unpack .../21-openssl_3.5.4-1~deb13u2_amd64.deb ...
+#8 34.60 Unpacking openssl (3.5.4-1~deb13u2) over (3.5.1-1+deb13u1) ...
+#8 35.71 Preparing to unpack .../22-sq_1.3.1-2+b2_amd64.deb ...
+#8 35.72 Unpacking sq (1.3.1-2+b2) over (1.3.1-2+b1) ...
+#8 36.66 Preparing to unpack .../23-x11-common_1%3a7.7+24+deb13u1_all.deb ...
+#8 36.68 Unpacking x11-common (1:7.7+24+deb13u1) over (1:7.7+24) ...
+#8 36.80 Setting up libgnutls30t64:amd64 (3.8.9-3+deb13u2) ...
+#8 36.81 Setting up libgnutls-openssl27t64:amd64 (3.8.9-3+deb13u2) ...
+#8 36.83 Setting up libcurl4t64:amd64 (8.14.1-2+deb13u2) ...
+#8 36.85 Setting up imagemagick-7-common (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 36.95 Setting up x11-common (1:7.7+24+deb13u1) ...
+#8 36.99 Installing new version of config file /etc/X11/Xsession.d/20x11-common_process-args ...
+#8 37.13 debconf: unable to initialize frontend: Dialog
+#8 37.13 debconf: (TERM is not set, so the dialog frontend is not usable.)
+#8 37.13 debconf: falling back to frontend: Readline
+#8 37.14 debconf: unable to initialize frontend: Readline
+#8 37.14 debconf: (This frontend requires a controlling tty.)
+#8 37.14 debconf: falling back to frontend: Teletype
+#8 37.14 debconf: unable to initialize frontend: Teletype
+#8 37.14 debconf: (This frontend requires a controlling tty.)
+#8 37.14 debconf: falling back to frontend: Noninteractive
+#8 37.16 invoke-rc.d: could not determine current runlevel
+#8 37.17 invoke-rc.d: policy-rc.d denied execution of restart.
+#8 37.18 Setting up libpq5:amd64 (17.8-0+deb13u1) ...
+#8 37.20 Setting up libcurl3t64-gnutls:amd64 (8.14.1-2+deb13u2) ...
+#8 37.21 Setting up linux-libc-dev (6.12.73-1) ...
+#8 37.23 Setting up libcom-err2:amd64 (1.47.2-3+b7) ...
+#8 37.24 Setting up sq (1.3.1-2+b2) ...
+#8 37.26 Setting up libglib2.0-0t64:amd64 (2.84.4-3~deb13u2) ...
+#8 37.28 No schema files found: doing nothing.
+#8 37.29 Setting up libglib2.0-data (2.84.4-3~deb13u2) ...
+#8 37.30 Setting up libunbound8:amd64 (1.22.0-2+deb13u1) ...
+#8 37.32 Setting up libgnutls-dane0t64:amd64 (3.8.9-3+deb13u2) ...
+#8 37.34 Setting up gnupg-l10n (2.4.7-21+deb13u1) ...
+#8 37.35 Setting up libssl-dev:amd64 (3.5.4-1~deb13u2) ...
+#8 37.37 Setting up libpng16-16t64:amd64 (1.6.48-1+deb13u3) ...
+#8 37.39 Setting up gir1.2-glib-2.0:amd64 (2.84.4-3~deb13u2) ...
+#8 37.40 Setting up libmagickcore-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 37.42 Setting up gir1.2-glib-2.0-dev:amd64 (2.84.4-3~deb13u2) ...
+#8 37.44 Setting up gpgconf (2.4.7-21+deb13u1+b1) ...
+#8 37.45 Setting up curl (8.14.1-2+deb13u2) ...
+#8 37.47 Setting up libc-dev-bin (2.41-12+deb13u1) ...
+#8 37.48 Setting up openssl (3.5.4-1~deb13u2) ...
+#8 37.51 Setting up libxml2:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) ...
+#8 37.52 Setting up gpg (2.4.7-21+deb13u1+b1) ...
+#8 37.68 Setting up libgio-2.0-dev-bin (2.84.4-3~deb13u2) ...
+#8 37.99 Setting up libgio-2.0-dev:amd64 (2.84.4-3~deb13u2) ...
+#8 38.01 Setting up gpg-agent (2.4.7-21+deb13u1+b1) ...
+#8 38.56 Setting up libgirepository-2.0-0:amd64 (2.84.4-3~deb13u2) ...
+#8 38.57 Setting up libmagickcore-7-arch-config:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 38.59 Setting up gpgsm (2.4.7-21+deb13u1+b1) ...
+#8 38.61 Setting up libpng-dev:amd64 (1.6.48-1+deb13u3) ...
+#8 38.62 Setting up libglib2.0-bin (2.84.4-3~deb13u2) ...
+#8 38.64 Setting up libpq-dev (17.8-0+deb13u1) ...
+#8 38.66 Setting up libmagickwand-7-headers (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 38.68 Setting up dirmngr (2.4.7-21+deb13u1+b1) ...
+#8 38.84 Setting up libxml2-dev:amd64 (2.12.7+dfsg+really2.9.14-2.1+deb13u2) ...
+#8 38.86 Setting up libcurl4-openssl-dev:amd64 (8.14.1-2+deb13u2) ...
+#8 38.88 Setting up libmagickcore-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 38.89 Setting up gnupg (2.4.7-21+deb13u1) ...
+#8 38.91 Setting up libc6-dev:amd64 (2.41-12+deb13u1) ...
+#8 38.93 Setting up libgnutls28-dev:amd64 (3.8.9-3+deb13u2) ...
+#8 38.95 Setting up girepository-tools:amd64 (2.84.4-3~deb13u2) ...
+#8 38.96 Setting up libmagickwand-7.q16-10:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 38.98 Setting up comerr-dev:amd64 (2.1-1.47.2-3+b7) ...
+#8 39.00 Setting up libglib2.0-dev-bin (2.84.4-3~deb13u2) ...
+#8 39.01 Setting up libmagickcore-7.q16-10-extra:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.03 Setting up imagemagick-7.q16 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.20 Setting up libglib2.0-dev:amd64 (2.84.4-3~deb13u2) ...
+#8 39.22 Setting up libmagickcore-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.23 Setting up imagemagick (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.25 Setting up libmagickwand-7.q16-dev:amd64 (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.27 Setting up libmagickcore-dev (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.28 Setting up libmagickwand-dev (8:7.1.1.43+dfsg1-1+deb13u5) ...
+#8 39.30 Processing triggers for hicolor-icon-theme (0.18-2) ...
+#8 39.32 Processing triggers for libc-bin (2.41-12+deb13u1) ...
+#8 39.35 Processing triggers for debianutils (5.23.2) ...
+#8 39.47 Reading package lists...
+#8 40.24 Building dependency tree...
+#8 40.44 Reading state information...
+#8 40.80 gcc is already the newest version (4:14.2.0-1).
+#8 40.80 default-libmysqlclient-dev is already the newest version (1.1.1).
+#8 40.80 The following NEW packages will be installed:
+#8 40.80   pkg-config
+#8 40.84 0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+#8 40.84 Need to get 14.0 kB of archives.
+#8 40.84 After this operation, 29.7 kB of additional disk space will be used.
+#8 40.84 Get:1 http://deb.debian.org/debian trixie/main amd64 pkg-config amd64 1.8.1-4 [14.0 kB]
+#8 41.02 debconf: unable to initialize frontend: Dialog
+#8 41.02 debconf: (TERM is not set, so the dialog frontend is not usable.)
+#8 41.02 debconf: falling back to frontend: Readline
+#8 41.03 debconf: unable to initialize frontend: Readline
+#8 41.03 debconf: (This frontend requires a controlling tty.)
+#8 41.03 debconf: falling back to frontend: Teletype
+#8 41.03 debconf: unable to initialize frontend: Teletype
+#8 41.03 debconf: (This frontend requires a controlling tty.)
+#8 41.04 debconf: falling back to frontend: Noninteractive
+#8 41.81 Fetched 14.0 kB in 0s (865 kB/s)
+#8 41.84 Selecting previously unselected package pkg-config:amd64.
+#8 41.84 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 26762 files and directories currently installed.)
+#8 41.86 Preparing to unpack .../pkg-config_1.8.1-4_amd64.deb ...
+#8 41.86 Unpacking pkg-config:amd64 (1.8.1-4) ...
+#8 41.92 Setting up pkg-config:amd64 (1.8.1-4) ...
+#8 DONE 42.0s
+
+#9 [django_app 5/7] RUN pip install mysqlclient
+#9 2.939 Collecting mysqlclient
+#9 2.959   Downloading mysqlclient-2.2.7.tar.gz (91 kB)
+#9 2.972      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 91.4/91.4 kB 9.3 MB/s eta 0:00:00
+#9 2.995   Installing build dependencies: started
+#9 5.008   Installing build dependencies: finished with status 'done'
+#9 5.009   Getting requirements to build wheel: started
+#9 5.323   Getting requirements to build wheel: finished with status 'done'
+#9 5.326   Preparing metadata (pyproject.toml): started
+#9 5.612   Preparing metadata (pyproject.toml): finished with status 'done'
+#9 5.617 Building wheels for collected packages: mysqlclient
+#9 5.619   Building wheel for mysqlclient (pyproject.toml): started
+#9 7.144   Building wheel for mysqlclient (pyproject.toml): finished with status 'done'
+#9 7.146   Created wheel for mysqlclient: filename=mysqlclient-2.2.7-cp39-cp39-linux_x86_64.whl size=133779 sha256=fecb21b0c85b623468a64122aa2df46fe5f4c34dbc9da9a769db0303dacf0c8e
+#9 7.147   Stored in directory: /root/.cache/pip/wheels/ed/03/da/e61775175405d4b30c644467a6d377a98fd5a5da1bf5364614
+#9 7.151 Successfully built mysqlclient
+#9 7.215 Installing collected packages: mysqlclient
+#9 7.256 Successfully installed mysqlclient-2.2.7
+#9 7.256 WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+#9 7.265 
+#9 7.265 [notice] A new release of pip is available: 23.0.1 -> 26.0.1
+#9 7.265 [notice] To update, run: pip install --upgrade pip
+#9 DONE 7.5s
+
+#10 [django_app 6/7] RUN pip install --no-cache-dir -r requirements.txt
+#10 0.991 Collecting asgiref==3.6.0
+#10 1.012   Downloading asgiref-3.6.0-py3-none-any.whl (23 kB)
+#10 1.193 Collecting Django==4.1.5
+#10 1.202   Downloading Django-4.1.5-py3-none-any.whl (8.1 MB)
+#10 1.253      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.1/8.1 MB 210.2 MB/s eta 0:00:00
+#10 1.350 Collecting django-cors-headers==3.13.0
+#10 1.355   Downloading django_cors_headers-3.13.0-py3-none-any.whl (13 kB)
+#10 1.412 Collecting djangorestframework==3.14.0
+#10 1.416   Downloading djangorestframework-3.14.0-py3-none-any.whl (1.1 MB)
+#10 1.423      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 260.7 MB/s eta 0:00:00
+#10 1.465 Collecting gunicorn==20.1.0
+#10 1.470   Downloading gunicorn-20.1.0-py3-none-any.whl (79 kB)
+#10 1.474      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 79.5/79.5 kB 199.9 MB/s eta 0:00:00
+#10 1.553 Collecting pytz==2022.7.1
+#10 1.558   Downloading pytz-2022.7.1-py2.py3-none-any.whl (499 kB)
+#10 1.563      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 499.4/499.4 kB 245.4 MB/s eta 0:00:00
+#10 1.595 Collecting sqlparse==0.4.3
+#10 1.599   Downloading sqlparse-0.4.3-py3-none-any.whl (42 kB)
+#10 1.602      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.8/42.8 kB 173.0 MB/s eta 0:00:00
+#10 1.631 Collecting tzdata==2022.7
+#10 1.636   Downloading tzdata-2022.7-py2.py3-none-any.whl (340 kB)
+#10 1.641      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 340.1/340.1 kB 250.2 MB/s eta 0:00:00
+#10 1.688 Collecting whitenoise==6.3.0
+#10 1.692   Downloading whitenoise-6.3.0-py3-none-any.whl (19 kB)
+#10 1.778 Requirement already satisfied: setuptools>=3.0 in /usr/local/lib/python3.9/site-packages (from gunicorn==20.1.0->-r requirements.txt (line 5)) (79.0.1)
+#10 1.921 Installing collected packages: pytz, whitenoise, tzdata, sqlparse, gunicorn, asgiref, Django, djangorestframework, django-cors-headers
+#10 4.706 Successfully installed Django-4.1.5 asgiref-3.6.0 django-cors-headers-3.13.0 djangorestframework-3.14.0 gunicorn-20.1.0 pytz-2022.7.1 sqlparse-0.4.3 tzdata-2022.7 whitenoise-6.3.0
+#10 4.707 WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+#10 4.806 
+#10 4.806 [notice] A new release of pip is available: 23.0.1 -> 26.0.1
+#10 4.806 [notice] To update, run: pip install --upgrade pip
+#10 DONE 5.2s
+
+#11 [django_app 7/7] COPY . /app/backend
+#11 DONE 0.1s
+
+#12 [django_app] exporting to image
+#12 exporting layers
+#12 exporting layers 1.8s done
+#12 writing image sha256:733b2fd8b547d61bceea1c0d9c49f4deb70318cbd09cf4f10e0a00aab8cbe43c done
+#12 naming to docker.io/library/django_app done
+#12 DONE 1.9s
+
+#13 [django_app] resolving provenance for metadata file
+#13 DONE 0.0s
+ django_app  Built
+ Network djangocicd_notes-app-nw  Creating
+ Network djangocicd_notes-app-nw  Created
+ Container db_cont  Creating
+ Container db_cont  Created
+ Container django_cont  Creating
+ Container django_cont  Created
+ Container nginx_cont  Creating
+ Container nginx_cont  Created
+ Container db_cont  Starting
+ Container db_cont  Started
+ Container django_cont  Starting
+ Container django_cont  Started
+ Container nginx_cont  Starting
+ Container nginx_cont  Started
+[8mha:////4OfHh1VocltJj1X2jGZY4prVkczdC402GcXj8wcPHJk2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BpKm1V++AAAA[0m[Pipeline] }
+[8mha:////4C8St1aAV9T9T7ppQF7MYD9eM2npLbt3MzUuLN8XwRPzAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKChKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbN6FFjuO+AAAA[0m[Pipeline] // stage
+[8mha:////4D4uVTWd4591cZKtWraTLFQuY48sqDF1Kqk5eRasqibIAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYRTgGgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHILYMxWb3OZZvghbsEMEAAAA=[0m[Pipeline] stage
+[8mha:////4EI0HN379cDCTbAyOUHiKJfYrywDm01QCuM1Z70zttDTAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QIIBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfADpB/iZwgAAAA==[0m[Pipeline] { (Cleanup)
+[8mha:////4Gy+gw1UvZvZCXV+MwCntuo63aMN+8BEjyy7R1Kt4fYRAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUICEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAEGDPXtvgAAAA==[0m[Pipeline] echo
+Cleaning unused Docker resources
+[8mha:////4OAaOOKDZAEfuSCAeOpz1DYQVHFrlRtG9r6mXX/yyHgqAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUCCEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK7+9Q+vAFHPe70vgAAAA==[0m[Pipeline] sh
++ docker system prune -f
+Deleted build cache objects:
+ytg01vjessnakkspx8wng9074
+q3wrshss6fk3zsi1ej5txdpjs
+2yuo44ievtpiiu5j3bm3rnqgi
+
+Total reclaimed space: 8.159MB
+[8mha:////4ED1q0py8XOnMch2w6ytl6uwXZ4+0o6ezwQkpz89MsRVAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBBIFSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAP3+A6L4AAAA=[0m[Pipeline] }
+[8mha:////4DcPigOzW2XJUjbVApoLru2v5C7mjti+n+9AI3ogyqGwAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBKJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw8MnNtUvgAAAA==[0m[Pipeline] // stage
+[8mha:////4ObZTGJAjO9ZqHT5LH7RIq0iO3YO5egJW7Vzt6GYDItpAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6Ikhs04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwAVulI+L0AAAA=[0m[Pipeline] }
+[8mha:////4AV+DRJCyhfJTkIKI1zcXc/QmMxo0GWAK58odWT+YBLlAAAAoh+LCAAAAAAAAP9tjTESgjAQRT84FraWHiIU2DlWthkaTxAhxkBmF5NFqDyRV/MOMjJj5a/+e817vbFOEUeOTrWWOk+p9qoPg5ufGjl218CjavmiaqbEwarKjhU39rRgxWKxLMux0thYqgMnT06w1a15mCIYcsVZ4uwOGrlv7ngi03NZTJQvTBG729Akpl/nbwBT3wvyfSnIyg9FVUxbvQAAAA==[0m[Pipeline] // node
+[8mha:////4IykTW5bspVrEIhbkXoVxLGnYjTOeo8QlcBTW9r60IVhAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6Ikhs04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8Aw7lrnr0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
